@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Bangjun Wong's Homepage"
-description              : "Personal homepage for Bangjun Wong(wbjsamuel)"
+description              : # "Personal homepage for Bangjun Wong(wbjsamuel)"
 repository               : "wbjsamuel/wbjsamuel.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bangjun Wong"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Shanghai Jiao Tong University '21 Guozhi Class"
+  bio              : "SJTU '21 AI(Guozhi Class)"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
