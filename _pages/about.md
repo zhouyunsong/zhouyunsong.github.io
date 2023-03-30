@@ -35,7 +35,7 @@ My research interest includes ***computer vision, image matching, 3D general vis
 
 *2023.03 - (present)*, Supervisor: Prof. [Hongyang Li](https://lihongyang.info), Researcher [Li Chen](https://scholar.google.ae/citations?user=ulZxvY0AAAAJ&hl=zh-CN), Ph.D student [Tianyu Li](https://github.com/sephyli).
 
-- **Structural understanding for Driving Scenes** 
+- **Structural understanding for Driving Scenes** 
 
 ### (re)ThinkLab@SJTU
 
@@ -64,7 +64,7 @@ My research interest includes ***computer vision, image matching, 3D general vis
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2021.09 - Present*, Undergraduates, Artificial Intelligence, Guozhi Class, Shanghai Jiao Tong University.
+- *2021.09 - Present*, Undergraduates, Artificial Intelligence, Guozhi Class, Shanghai Jiao Tong University, Shanghai.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

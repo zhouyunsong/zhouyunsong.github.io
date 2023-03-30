@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bangjun Wong's Homepage"
-description              : # "Personal homepage for Bangjun Wong(wbjsamuel)"
+description              : "Research intern at SJTU, (re)ThinkLab and Shanghai AI Laboratory, OpenDriveLab. Focusing on 3D General Vision, Image Matching, Autonomous Driving, Embodied AI."
 repository               : "wbjsamuel/wbjsamuel.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bangjun Wong"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "SJTU '21 AI(Guozhi Class)"
+  bio              : "SJTU, Shanghai AI Laboratory"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
@@ -35,8 +35,8 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
-  foursquare       :
+  facebook         : 
+  foursquare       : 
   github           : "wbjsamuel"
   google_plus      :
   keybase          :
