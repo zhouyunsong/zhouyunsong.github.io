@@ -33,7 +33,7 @@ My research interest includes ***computer vision, 3D general vision, autonomous 
 
 ### OpenDriveLab@Shanghai AI Laboratory
 
-*2023.03 - (present)*, Supervisor: Prof. [Hongyang Li](https://lihongyang.info), Researcher [Li Chen](https://scholar.google.ae/citations?user=ulZxvY0AAAAJ&hl=zh-CN), Ph.D student [Tianyu Li](https://github.com/sephyli).
+*2023.03 - (present)*, Supervisor: Prof. [Hongyang Li](https://lihongyang.info), Researcher [Li Chen](https://scholar.google.ae/citations?user=ulZxvY0AAAAJ&hl=zh-CN).
 
 - **Structural Understanding for Driving Scenes** 
 
