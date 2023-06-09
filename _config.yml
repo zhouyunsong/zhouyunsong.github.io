@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Bangjun Wong's Homepage"
-description              : "Research intern at SJTU, (re)ThinkLab and Shanghai AI Laboratory, OpenDriveLab. Focusing on 3D General Vision, Image Matching, Autonomous Driving, Embodied AI."
+title                    : "Bangjun Wang's Homepage"
+description              : "Research intern at SJTU, (re)ThinkLab and Shanghai AI Lab(OpenDriveLab). Focusing on Computer Vision, Autonomous Driving, Robotics, and Embodied AI."
 repository               : "wbjsamuel/wbjsamuel.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Bangjun Wong"
+  name             : "Bangjun Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "SJTU, Shanghai AI Laboratory"
+  bio              : "Shanghai Jiao Tong University, Shanghai AI Lab"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "wbjsamuel@outlook.com"
+  email            : "wbjsamuel@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   instagram        : "samuel.wbj"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "Bangjun Wong"
+  linkedin         : "https://www.linkedin.com/in/bangjun-wang-5510a9238?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgdr7vMk8RVi8TFipxV7K1A%3D%3D"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "BangjunWang"
   vine             :
   weibo            :
   xing             :
