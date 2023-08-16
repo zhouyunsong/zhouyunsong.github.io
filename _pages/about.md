@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am an undergraduate student from Guozhi Class, Shanghai Jiao Tong University, majoring in Artificial Intelligence. Currently, I work as a research intern at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info) , and Researcher [Li Chen](https://scholar.google.ae/citations?user=ulZxvY0AAAAJ&hl=zh-CN). Meanwhile, I also work as a research intern at [**(re)ThinkLab**](https://thinklab.sjtu.edu.cn), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn) and Ph.D. student [Zetian Jiang](https://github.com/JzMaple).
 
-My research interest includes ***robotics(navigation, autonomous driving) , embodied AI and computer vision***. 
+My research interest includes ***robotics(motion planning, autonomous driving) , embodied AI and computer vision***. 
 
 
 # 🔥 News
