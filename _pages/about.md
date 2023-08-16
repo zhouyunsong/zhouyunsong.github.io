@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am an undergraduate student from Guozhi Class, Shanghai Jiao Tong University, majoring in Artificial Intelligence. Currently, I work as a research intern at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info) , Researcher [Li Chen](https://scholar.google.ae/citations?user=ulZxvY0AAAAJ&hl=zh-CN). Meanwhile, I also work as a research intern at [**(re)ThinkLab**](https://thinklab.sjtu.edu.cn), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn) and Ph.D student [Zetian Jiang](https://github.com/JzMaple).
+Hi, I am an undergraduate student from Guozhi Class, Shanghai Jiao Tong University, majoring in Artificial Intelligence. Currently, I work as a research intern at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info) , and Researcher [Li Chen](https://scholar.google.ae/citations?user=ulZxvY0AAAAJ&hl=zh-CN). Meanwhile, I also work as a research intern at [**(re)ThinkLab**](https://thinklab.sjtu.edu.cn), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn) and Ph.D. student [Zetian Jiang](https://github.com/JzMaple).
 
-My research interest includes ***computer vision, 3D general vision, autonomous driving, robotics and embodied AI***. 
+My research interest includes ***robotics(navigation, autonomous driving) , embodied AI and computer vision***. 
 
 
 # 🔥 News
-- *2023.03*: &nbsp;🎉🎉 Become a member of [**OpenDriveLab**](https://opendrivelab.com)
-- *2023.02*: &nbsp;💻💻 Participate in MCM/ICM 2023, collaborating with Wenye Yu and Yunlin He
-- *2022.11*: &nbsp;🎉🎉 Become a member of  [**(re)ThinkLab**](https://thinklab.sjtu.edu.cn)
-- *2022.08*: &nbsp;🎉🎉 Join Prof. [Nanyang Ye](https://ynysjtu.github.io)’s Laboratory
-- *2021.12*: &nbsp;🎉🎉 Enrolled in Guozhi Class
+- *2023.03*: &nbsp;🎉 Become a member of [**OpenDriveLab**](https://opendrivelab.com)
+- *2023.02*: &nbsp;💻 Participate in MCM/ICM 2023, collaborating with Wenye Yu and Yunlin He
+- *2022.11*: &nbsp;🎉 Become a member of  [**(re)ThinkLab**](https://thinklab.sjtu.edu.cn)
+- *2022.08*: &nbsp;🎉 Join Prof. [Nanyang Ye](https://ynysjtu.github.io)’s Laboratory
+- *2021.12*: &nbsp;🎉 Enrolled in Guozhi Class
 
 # 💻 Internships
 
@@ -39,7 +39,7 @@ My research interest includes ***computer vision, 3D general vision, autonomous 
 
 ### (re)ThinkLab@SJTU
 
-*2022.11 - (present)*, Supervisor: Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn), Ph.D student [Zetian Jiang](https://github.com/JzMaple).
+*2022.11 - (present)*, Supervisor: Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn), Ph.D. student [Zetian Jiang](https://github.com/JzMaple).
 
 - **Image Retrieval, Image Matching** 
 
@@ -49,7 +49,7 @@ My research interest includes ***computer vision, 3D general vision, autonomous 
 
 - **Causal Inference, OoD learning, OoD HDR Video Compression**
 
-# 📝 Publications 
+<!-- # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -62,17 +62,17 @@ My research interest includes ***computer vision, 3D general vision, autonomous 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2021.09 - Present*, Undergraduates, Artificial Intelligence, Guozhi Class, Shanghai Jiao Tong University, Shanghai.
+- *2021.09 - Present*, Undergraduate, Artificial Intelligence, Guozhi Class, SEIEE, Shanghai Jiao Tong University.
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-- 
+-  -->
