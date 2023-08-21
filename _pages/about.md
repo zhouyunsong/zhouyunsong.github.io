@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, I am a Ph.D. student from Wenjun Wu AI Hornour Class, Shanghai Jiao Tong University, majoring in Computer Science. Currently, I am supervised by Prof. Hongzi Zhu.
-Meanwhile, I work as a research intern at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info). 
+Meanwhile, I work as a discoverist at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info). 
 
 My research interest includes ***robotics(perception, autonomous driving) , embodied AI and computer vision***. 
 
@@ -26,13 +26,13 @@ My research interest includes ***robotics(perception, autonomous driving) , embo
 # 🔥 News
 - *2023.08*: &nbsp;📰 Give a talk on `End-to-end Autonomous Driving` to [**Motional**](https://motional.com/)
 - *2022.08*: &nbsp;🔥 [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) released
-- *2023.06*: &nbsp;💻 Organizing the CVPR2023 workshop on [**E2EAD**](https://opendrivelab.com/e2ead/cvpr23.html)
+- *2023.06*: &nbsp;💻 Hosting the CVPR2023 workshop on [**E2EAD**](https://opendrivelab.com/e2ead/cvpr23.html)
 - *2023.06*: &nbsp;💻 Participate in CVPR2023
 - *2022.12*: &nbsp;🎉 Become a member of [**OpenDriveLab**](https://opendrivelab.com)
 - *2022.09*: &nbsp;🎉 Enrolled in Wenjun Wu AI Hornour Class
 - *2020.09*: &nbsp;🎉 Join Prof. Hoongzi Zhu’s Laboratory
 
-# 💻 Internships
+# 💻 Research
 
 ### OpenDriveLab@Shanghai AI Laboratory
 
@@ -40,6 +40,13 @@ My research interest includes ***robotics(perception, autonomous driving) , embo
 
 - **End-to-end Autonomous Driving**
 - **Visual Foundation Model and [DriveAGI](https://github.com/OpenDriveLab/DriveAGI)** 
+
+### LION@SJTU
+
+*2020.09 - (present)*, Supervisor: Prof. [Hongzi Zhu](https://lion.sjtu.edu.cn/member/memberDetail?id=12).
+
+- **Perception in Autonomous Driving** 
+
 
 ### Mobile Agent Perception@SenseTime
 
