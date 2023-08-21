@@ -17,37 +17,47 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am an undergraduate student from Guozhi Class, Shanghai Jiao Tong University, majoring in Artificial Intelligence. Currently, I work as a research intern at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info) , and Researcher [Li Chen](https://scholar.google.ae/citations?user=ulZxvY0AAAAJ&hl=zh-CN). Meanwhile, I also work as a research intern at [**(re)ThinkLab**](https://thinklab.sjtu.edu.cn), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn) and Ph.D. student [Zetian Jiang](https://github.com/JzMaple).
+Hi, I am a Ph.D. student from Wenjun Wu AI Hornour Class, Shanghai Jiao Tong University, majoring in Computer Science. Currently, I am supervised by Prof. Hongzi Zhu.
+Meanwhile, I work as a research intern at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info). 
 
-My research interest includes ***robotics(motion planning, autonomous driving) , embodied AI and computer vision***. 
+My research interest includes ***robotics(perception, autonomous driving) , embodied AI and computer vision***. 
 
 
 # 🔥 News
-- *2023.03*: &nbsp;🎉 Become a member of [**OpenDriveLab**](https://opendrivelab.com)
-- *2023.02*: &nbsp;💻 Participate in MCM/ICM 2023, collaborating with Wenye Yu and Yunlin He
-- *2022.11*: &nbsp;🎉 Become a member of  [**(re)ThinkLab**](https://thinklab.sjtu.edu.cn)
-- *2022.08*: &nbsp;🎉 Join Prof. [Nanyang Ye](https://ynysjtu.github.io)’s Laboratory
-- *2021.12*: &nbsp;🎉 Enrolled in Guozhi Class
+- *2023.08*: &nbsp;📰 Give a talk on `End-to-end Autonomous Driving` to [**Motional**](https://motional.com/)
+- *2022.08*: &nbsp;🔥 [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) released
+- *2023.06*: &nbsp;💻 Organizing the CVPR2023 workshop on [**E2EAD**](https://opendrivelab.com/e2ead/cvpr23.html)
+- *2023.06*: &nbsp;💻 Participate in CVPR2023
+- *2022.12*: &nbsp;🎉 Become a member of [**OpenDriveLab**](https://opendrivelab.com)
+- *2022.09*: &nbsp;🎉 Enrolled in Wenjun Wu AI Hornour Class
+- *2020.09*: &nbsp;🎉 Join Prof. Hoongzi Zhu’s Laboratory
 
 # 💻 Internships
 
 ### OpenDriveLab@Shanghai AI Laboratory
 
-*2023.03 - (present)*, Supervisor: Prof. [Hongyang Li](https://lihongyang.info), Researcher [Li Chen](https://scholar.google.ae/citations?user=ulZxvY0AAAAJ&hl=zh-CN).
+*2022.12 - (present)*, Supervisor: Prof. [Hongyang Li](https://lihongyang.info).
 
-- **Structural Understanding for Driving Scenes** 
+- **End-to-end Autonomous Driving**
+- **Visual Foundation Model and [DriveAGI](https://github.com/OpenDriveLab/DriveAGI)** 
 
-### (re)ThinkLab@SJTU
+### Mobile Agent Perception@SenseTime
 
-*2022.11 - (present)*, Supervisor: Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn), Ph.D. student [Zetian Jiang](https://github.com/JzMaple).
+*2020.03 - 2020.12*, Supervisor: Prof. [Hongyang Li](https://lihongyang.info), Prof Jianping Shi.
 
-- **Image Retrieval, Image Matching** 
+- **Monocular 3D Vision** 
 
-### Nanyang Ye’s lab@SJTU
+# 📝 Publications 
 
-*2022.6 - 2022.11*, Supervisor: Prof. [Nanyang Ye](https://ynysjtu.github.io)
+- Q Liu, H Zhu, **Y, Zhou**, H Li, S Chang, and M Guo. Density-invariant Features for Distant Point Cloud Registration. In _ICCV_. 2023.
+- Q Liu, **Y, Zhou**, H Zhu, S Chang, and M Guo. APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction. In _IJCAI_. 2023.
+- **Y, Zhou**, H Zhu, Q Liu, S Chang, and M Guo. MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer. In _CVPR_. 2023.
+- **Y, Zhou**, Q Liu, H Zhu, Y Li, S Chang, and M Guo. MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation. In _NeurIPS_. 2022. **Spotlight.**
+- **Y, Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang. MonoEF: Extrinsic Parameter Free Monocular 3D Object Detection. In _TPAMI_. 2021.
+- **Y Zhou**, H Zhu, C Li, T Cui, S Chang, and M Guo. TempNet: Online Semantic Segmentation on Large-Scale Point Cloud Series. In _ICCV_. 2021. 
+- **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang. Monocular 3D Object Detection: An Extrinsic Parameter Free Approach. In _CVPR_. 2021. 
 
-- **Causal Inference, OoD learning, OoD HDR Video Compression**
+
 
 <!-- # 📝 Publications 
 
@@ -64,12 +74,14 @@ My research interest includes ***robotics(motion planning, autonomous driving) ,
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+
+# 📖 Educations
+- *2020.09 - Present*, Ph.D., Computer Science, SEIEE, Shanghai Jiao Tong University.
+- *2016.09 - 2020.06*, Bachelor, Microelectronic Science and Technology, SEIEE, Shanghai Jiao Tong University.
+
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-# 📖 Educations
-- *2021.09 - Present*, Undergraduate, Artificial Intelligence, Guozhi Class, SEIEE, Shanghai Jiao Tong University.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
