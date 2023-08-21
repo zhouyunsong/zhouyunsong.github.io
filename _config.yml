@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Bangjun Wang's Homepage"
-description              : "Research intern at SJTU, (re)ThinkLab and Shanghai AI Lab(OpenDriveLab). Focusing on Computer Vision, Autonomous Driving, Robotics, and Embodied AI."
-repository               : "wbjsamuel/wbjsamuel.github.io"
+title                    : "Yunsong Zhou's Homepage"
+description              : "Ph.D. at SJTU and Shanghai AI Lab(OpenDriveLab). Focusing on Computer Vision, Autonomous Driving, Robotics, and Embodied AI."
+repository               : "ZhouYunsong-SJTU/Yunsong_Zhou.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Bangjun Wang"
+  name             : "Yunsong Zhou"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Shanghai Jiao Tong University, Shanghai AI Lab"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "wbjsamuel@gmail.com"
+  googlescholar    :  "https://scholar.google.com/citations?user=bTsmnwcAAAAJ"
+  email            : "zhouyunsong2017@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         : 
   foursquare       : 
-  github           : "wbjsamuel"
+  github           : "ZhouYunsong-SJTU"
   google_plus      :
   keybase          :
-  instagram        : "samuel.wbj"
+  instagram        : 
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/bangjun-wang-5510a9238?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgdr7vMk8RVi8TFipxV7K1A%3D%3D"
+  linkedin         : # "https://www.linkedin.com/in/bangjun-wang-5510a9238?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgdr7vMk8RVi8TFipxV7K1A%3D%3D"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "BangjunWang"
+  twitter          : "Yunsong_Zhou"
   vine             :
   weibo            :
   xing             :
