@@ -25,7 +25,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 # 🔥 News
 - *2023.08*: &nbsp;📰 Invited by [**Motional**](https://motional.com/) to give a talk on `End-to-end Autonomous Driving`
-- *2022.08*: &nbsp;🔥 [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) released
+- *2023.08*: &nbsp;🔥 [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) released
 - *2023.06*: &nbsp;💻 Hosting the CVPR2023 workshop on [**E2EAD**](https://opendrivelab.com/e2ead/cvpr23.html)
 - *2023.06*: &nbsp;💻 Participate in CVPR2023
 - *2022.12*: &nbsp;🎉 Become a member of [**OpenDriveLab**](https://opendrivelab.com)
