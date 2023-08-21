@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yunsong Zhou's Homepage"
 description              : "Ph.D. at SJTU and Shanghai AI Lab(OpenDriveLab). Focusing on Computer Vision, Autonomous Driving, Robotics, and Embodied AI."
-repository               : "ZhouYunsong-SJTU/Yunsong_Zhou.github.io"
+repository               : "ZhouYunsong-SJTU/yunsongzhou.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # "https://www.linkedin.com/in/bangjun-wang-5510a9238?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgdr7vMk8RVi8TFipxV7K1A%3D%3D"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/239/4113.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
