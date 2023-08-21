@@ -20,17 +20,16 @@ redirect_from:
 Hi, I am a Ph.D. student from Wenjun Wu AI Hornour Class, Shanghai Jiao Tong University, majoring in Computer Science. Currently, I am supervised by Prof. Hongzi Zhu.
 Meanwhile, I work as a discoverist at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info). 
 
-My research interest includes ***robotics(perception, autonomous driving) , embodied AI and computer vision***. 
+My research interest includes ***robotics(perception, autonomous driving), embodied AI, and computer vision***. 
 
 
 # 🔥 News
-- *2023.08*: &nbsp;📰 Give a talk on `End-to-end Autonomous Driving` to [**Motional**](https://motional.com/)
+- *2023.08*: &nbsp;📰 Invited by [**Motional**](https://motional.com/) to give a talk on `End-to-end Autonomous Driving`
 - *2022.08*: &nbsp;🔥 [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) released
 - *2023.06*: &nbsp;💻 Hosting the CVPR2023 workshop on [**E2EAD**](https://opendrivelab.com/e2ead/cvpr23.html)
 - *2023.06*: &nbsp;💻 Participate in CVPR2023
 - *2022.12*: &nbsp;🎉 Become a member of [**OpenDriveLab**](https://opendrivelab.com)
 - *2022.09*: &nbsp;🎉 Enrolled in Wenjun Wu AI Hornour Class
-- *2020.09*: &nbsp;🎉 Join Prof. Hoongzi Zhu’s Laboratory
 
 # 💻 Research
 
@@ -66,7 +65,7 @@ My research interest includes ***robotics(perception, autonomous driving) , embo
 - **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang. Monocular 3D Object Detection: An Extrinsic Parameter Free Approach. In _CVPR_. 2021. 
 
 ### Projects
-- [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) - [DriveAGI](https://github.com/OpenDriveLab/DriveAGI)
+- [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) (leader) - [DriveAGI](https://github.com/OpenDriveLab/DriveAGI)
 
 
 <!-- # 📝 Publications 
