@@ -49,6 +49,7 @@ My research interest includes ***robotics(perception, autonomous driving) , embo
 
 # 📝 Publications 
 
+### Selected Papers
 - Q Liu, H Zhu, **Y, Zhou**, H Li, S Chang, and M Guo. Density-invariant Features for Distant Point Cloud Registration. In _ICCV_. 2023.
 - Q Liu, **Y, Zhou**, H Zhu, S Chang, and M Guo. APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction. In _IJCAI_. 2023.
 - **Y, Zhou**, H Zhu, Q Liu, S Chang, and M Guo. MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer. In _CVPR_. 2023.
@@ -57,6 +58,8 @@ My research interest includes ***robotics(perception, autonomous driving) , embo
 - **Y Zhou**, H Zhu, C Li, T Cui, S Chang, and M Guo. TempNet: Online Semantic Segmentation on Large-Scale Point Cloud Series. In _ICCV_. 2021. 
 - **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang. Monocular 3D Object Detection: An Extrinsic Parameter Free Approach. In _CVPR_. 2021. 
 
+### Projects
+- [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) - [DriveAGI](https://github.com/OpenDriveLab/DriveAGI)
 
 
 <!-- # 📝 Publications 
