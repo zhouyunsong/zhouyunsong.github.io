@@ -20,7 +20,8 @@ redirect_from:
 Hi, I am a Ph.D. student from Wenjun Wu AI Hornour Class, Shanghai Jiao Tong University, majoring in Computer Science. Currently, I am supervised by Prof. Hongzi Zhu.
 Meanwhile, I work as a discoverist at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info). 
 
-My research interest includes ***robotics(perception, autonomous driving), embodied AI, and computer vision***. 
+My research interest includes ***robotics(perception, autonomous driving), embodied AI, and computer vision***. <a href='https://scholar.google.com/citations?user=bTsmnwcAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhouyunsong-sjtu%2Fzhouyunsong-sjtu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
 
 
 # 🔥 News
@@ -56,13 +57,13 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 # 📝 Publications 
 
 ### Selected Papers
-- Q Liu, H Zhu, **Y, Zhou**, H Li, S Chang, and M Guo. Density-invariant Features for Distant Point Cloud Registration. In _ICCV_. 2023.
-- Q Liu, **Y, Zhou**, H Zhu, S Chang, and M Guo. APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction. In _IJCAI_. 2023.
-- **Y, Zhou**, H Zhu, Q Liu, S Chang, and M Guo. MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer. In _CVPR_. 2023.
-- **Y, Zhou**, Q Liu, H Zhu, Y Li, S Chang, and M Guo. MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation. In _NeurIPS_. 2022. **Spotlight.**
-- **Y, Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang. MonoEF: Extrinsic Parameter Free Monocular 3D Object Detection. In _TPAMI_. 2021.
-- **Y Zhou**, H Zhu, C Li, T Cui, S Chang, and M Guo. TempNet: Online Semantic Segmentation on Large-Scale Point Cloud Series. In _ICCV_. 2021. 
-- **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang. Monocular 3D Object Detection: An Extrinsic Parameter Free Approach. In _CVPR_. 2021. 
+- ``ICCV 2023`` Density-invariant Features for Distant Point Cloud Registration. Q Liu, H Zhu, **Y, Zhou**, H Li, S Chang, and M Guo.
+- ``IJCAI`` APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction. Q Liu, **Y, Zhou**, H Zhu, S Chang, and M Guo.
+- ``CVPR 2023`` MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer. **Y, Zhou**, H Zhu, Q Liu, S Chang, and M Guo.
+- ``NeurIPS 2022`` MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation. **Y, Zhou**, Q Liu, H Zhu, Y Li, S Chang, and M Guo. **Spotlight.**
+- ``TPAMI 2021`` MonoEF: Extrinsic Parameter Free Monocular 3D Object Detection. **Y, Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
+- ``ICCV 2021`` TempNet: Online Semantic Segmentation on Large-Scale Point Cloud Series. **Y Zhou**, H Zhu, C Li, T Cui, S Chang, and M Guo.
+- ``CVPR 2021`` Monocular 3D Object Detection: An Extrinsic Parameter Free Approach. **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
 
 ### Projects
 - [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) (leader) - [DriveAGI](https://github.com/OpenDriveLab/DriveAGI)
