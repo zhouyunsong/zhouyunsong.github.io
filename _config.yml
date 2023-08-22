@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Yunsong Zhou's Homepage"
-description              : "Ph.D. at SJTU and Shanghai AI Lab(OpenDriveLab). Focusing on Computer Vision, Autonomous Driving, Robotics, and Embodied AI."
-repository               : "ZhouYunsong-SJTU/yunsongzhou.github.io"
-google_scholar_stats_use_cdn : False
+description              : "Ph.D. at SJTU and Shanghai AI Lab (OpenDriveLab). Focusing on Perception, Autonomous Driving, Robotics, and Embodied AI."
+repository               : "ZhouYunsong-SJTU/zhouyunsong-sjtu.github.io"
+google_scholar_stats_use_cdn : True
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
