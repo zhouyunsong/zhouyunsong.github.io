@@ -9,7 +9,7 @@
 title                    : "Yunsong Zhou's Homepage"
 description              : "Ph.D. at SJTU and Shanghai AI Lab(OpenDriveLab). Focusing on Computer Vision, Autonomous Driving, Robotics, and Embodied AI."
 repository               : "ZhouYunsong-SJTU/yunsongzhou.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : False
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
