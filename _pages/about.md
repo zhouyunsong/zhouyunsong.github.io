@@ -22,11 +22,11 @@ Meanwhile, I work as a discoverist at [**OpenDriveLab**](https://opendrivelab.co
 
 My research interest includes ***robotics(perception, autonomous driving), embodied AI, and computer vision***. <a href='https://scholar.google.com/citations?user=bTsmnwcAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhouyunsong-sjtu%2Fzhouyunsong-sjtu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-
+<img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Fzhouyunsong-sjtu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
 - *2023.08*: &nbsp;📰 Invited by [**Motional**](https://motional.com/) to give a talk on `End-to-end Autonomous Driving`
-- *2023.08*: &nbsp;🔥 [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) released
+- *2023.08*: &nbsp;🔥 [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) released [![](https://img.shields.io/github/stars/OpenDriveLab/OpenScene?style=social&label=Code+Stars)](https://github.com/OPenDriveLab/OpenScene)
 - *2023.06*: &nbsp;💻 Hosting the CVPR2023 workshop on [**E2EAD**](https://opendrivelab.com/e2ead/cvpr23.html)
 - *2023.06*: &nbsp;💻 Participate in CVPR2023
 - *2022.12*: &nbsp;🎉 Become a member of [**OpenDriveLab**](https://opendrivelab.com)
@@ -58,7 +58,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 ### Selected Papers
 - ``ICCV 2023`` Density-invariant Features for Distant Point Cloud Registration. Q Liu, H Zhu, **Y, Zhou**, H Li, S Chang, and M Guo.
-- ``IJCAI`` APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction. Q Liu, **Y, Zhou**, H Zhu, S Chang, and M Guo.
+- ``IJCAI 2023`` APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction. Q Liu, **Y, Zhou**, H Zhu, S Chang, and M Guo.
 - ``CVPR 2023`` MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer. **Y, Zhou**, H Zhu, Q Liu, S Chang, and M Guo.
 - ``NeurIPS 2022`` MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation. **Y, Zhou**, Q Liu, H Zhu, Y Li, S Chang, and M Guo. **Spotlight.**
 - ``TPAMI 2021`` MonoEF: Extrinsic Parameter Free Monocular 3D Object Detection. **Y, Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
