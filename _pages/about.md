@@ -20,14 +20,15 @@ redirect_from:
 Hi, I am a Ph.D. student from Wenjun Wu AI Hornour Class, Shanghai Jiao Tong University, majoring in Computer Science. Currently, I am supervised by Prof. Hongzi Zhu.
 Meanwhile, I work as a discoverist at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info). 
 
+
 My research interest includes ***robotics(perception, autonomous driving), embodied AI, and computer vision***. <a href='https://scholar.google.com/citations?user=bTsmnwcAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhouYunsong-SJTU%2FZhouYunsong-SJTU.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉 Become a visiting scholar of [**MetaDriverse**](https://metadriverse.github.io/), University of California, Los Angeles.
 - *2023.08*: &nbsp;📰 Invited by [**Motional**](https://motional.com/) to give a talk on `End-to-end Autonomous Driving`
 - *2023.08*: &nbsp;🔥 [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) released [![](https://img.shields.io/github/stars/OpenDriveLab/OpenScene?style=social&label=Code+Stars)](https://github.com/OPenDriveLab/OpenScene)
-- *2023.06*: &nbsp;💻 Hosting the CVPR2023 workshop on [**E2EAD**](https://opendrivelab.com/e2ead/cvpr23.html)
-- *2023.06*: &nbsp;💻 Participate in CVPR2023
+- *2023.06*: &nbsp;💻 Host the CVPR2023 workshop on [**E2EAD**](https://opendrivelab.com/e2ead/cvpr23.html)
 - *2022.12*: &nbsp;🎉 Become a member of [**OpenDriveLab**](https://opendrivelab.com)
 - *2022.09*: &nbsp;🎉 Enrolled in Wenjun Wu AI Hornour Class
 
@@ -39,7 +40,8 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 *2022.12 - (present)*, Supervisor: Prof. [Hongyang Li](https://lihongyang.info).
 
 - **End-to-end Autonomous Driving**
-- **Visual Foundation Model and [DriveAGI](https://github.com/OpenDriveLab/DriveAGI)** 
+- **Visual Foundation Model and [DriveAGI](https://github.com/OpenDriveLab/DriveAGI)**
+- **Driving with Language**
 
 ### LION@SJTU
 
