@@ -19,7 +19,7 @@ redirect_from:
 
 
 <p align="center">
-  <img src="assets/teaser.png" width="900px" >
+  <img src="../assets/teaser.png"  >
 </p>
 
 > A glance at Hermosa Beach, Los Angeles, California.
