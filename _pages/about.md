@@ -22,9 +22,8 @@ redirect_from:
   <img src="assets/teaser.png" width="900px" >
 </p>
 
-<p align="center">
-  > A glance at Hermosa Beach, Los Angeles, California.
-</p>
+> A glance at Hermosa Beach, Los Angeles, California.
+
 
 Hi, I am a Ph.D. student from Wenjun Wu AI Hornour Class, Shanghai Jiao Tong University, majoring in Computer Science. Currently, I am supervised by Prof. Hongzi Zhu.
 Meanwhile, I work as a discoverist at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info). 
