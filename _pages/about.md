@@ -23,9 +23,11 @@ redirect_from:
   <img src="../assets/teaser.png">
 </p>
 
-###### *A glimpse of Hermosa Beach, Los Angeles, California, where La La Land was filmed.*
-
 </div>
+
+> A glimpse of Hermosa Beach, Los Angeles, California, where La La Land was filmed.
+
+
 
 Hi, I am a Ph.D. student from Wenjun Wu AI Hornour Class, Shanghai Jiao Tong University, majoring in Computer Science. Currently, I am supervised by Prof. Hongzi Zhu.
 Meanwhile, I work as a discoverist at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info). 
