@@ -23,7 +23,7 @@ redirect_from:
   <img src="../assets/teaser.png">
 </p>
 
->  $A\ glimpse\ of\ Hermosa\ Beach,\ Los\ Angeles,\ California,\ where\ La\ La\ Land\ was\ filmed.$
+###### *A glimpse of Hermosa Beach, Los Angeles, California, where La La Land was filmed.*
 
 </div>
 
