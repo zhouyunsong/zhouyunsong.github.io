@@ -20,10 +20,10 @@ redirect_from:
 <div id="top" align="center">
   
 <p align="center">
-  <img src="../assets/teaser.png"  >
+  <img src="../assets/teaser.png">
 </p>
 
-> A glimpse of Hermosa Beach, Los Angeles, California, where La La Land was filmed.
+>  $A\ glimpse\ of\ Hermosa\ Beach,\ Los\ Angeles,\ California,\ where\ La\ La\ Land\ was\ filmed.$
 
 </div>
 
