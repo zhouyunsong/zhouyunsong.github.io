@@ -37,6 +37,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 
 # 🔥 News
+- *2024.03*: &nbsp;🔥 [**ELM**](https://github.com/OpenDriveLab/ELM) released [![](https://img.shields.io/github/stars/OpenDriveLab/ELM?style=social&label=Code+Stars)](https://github.com/OPenDriveLab/ELM)
 - *2024.01*: &nbsp;🎉 Become a visiting scholar of [**MetaDriverse**](https://metadriverse.github.io/), University of California, Los Angeles.
 - *2023.08*: &nbsp;📰 Invited by [**Motional**](https://motional.com/) to give a talk on `End-to-end Autonomous Driving`
 - *2023.08*: &nbsp;🔥 [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) released [![](https://img.shields.io/github/stars/OpenDriveLab/OpenScene?style=social&label=Code+Stars)](https://github.com/OPenDriveLab/OpenScene)
@@ -71,6 +72,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 # 📝 Publications 
 
 ### Selected Papers
+- ``CVPR 2024`` Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension. Q Liu, H Zhu, Z Wang, **Y, Zhou**, S Chang, and M Guo.
 - ``ICCV 2023`` Density-invariant Features for Distant Point Cloud Registration. Q Liu, H Zhu, **Y, Zhou**, H Li, S Chang, and M Guo.
 - ``IJCAI 2023`` APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction. Q Liu, **Y, Zhou**, H Zhu, S Chang, and M Guo.
 - ``CVPR 2023`` MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer. **Y, Zhou**, H Zhu, Q Liu, S Chang, and M Guo.
@@ -80,6 +82,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 - ``CVPR 2021`` Monocular 3D Object Detection: An Extrinsic Parameter Free Approach. **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
 
 ### Projects
+- [**ELM**](https://github.com/OpenDriveLab/OpenScene) (leader)
 - [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) (leader) - [DriveAGI](https://github.com/OpenDriveLab/DriveAGI)
 
 
