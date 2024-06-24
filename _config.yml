@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yunsong Zhou's Homepage"
 description              : "Ph.D. at SJTU and Shanghai AI Lab (OpenDriveLab). Focusing on Perception, Autonomous Driving, Robotics, and Embodied AI."
-repository               : "ZhouYunsong-SJTU/zhouyunsong-sjtu.github.io"
+repository               : "zhouyunsong/yunsongzhou.github.io"
 google_scholar_stats_use_cdn : True
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       : 
-  github           : "ZhouYunsong-SJTU"
+  github           : "zhouyunsong"
   google_plus      :
   keybase          :
   instagram        : 
