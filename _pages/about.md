@@ -76,15 +76,16 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 # 📝 Publications 
 
 ### Selected Papers
-- ``CVPR 2024`` Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension. Q Liu, H Zhu, Z Wang, **Y, Zhou**, S Chang, and M Guo.
-- ``ICCV 2023`` Density-invariant Features for Distant Point Cloud Registration. Q Liu, H Zhu, **Y, Zhou**, H Li, S Chang, and M Guo.
-- ``IJCAI 2023`` APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction. Q Liu, **Y, Zhou**, H Zhu, S Chang, and M Guo.
-- ``CVPR 2023`` MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer. **Y, Zhou**, H Zhu, Q Liu, S Chang, and M Guo.
-- ``NeurIPS 2022`` MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation. **Y, Zhou**, Q Liu, H Zhu, Y Li, S Chang, and M Guo. **Spotlight.**
-- ``TPAMI 2021`` MonoEF: Extrinsic Parameter Free Monocular 3D Object Detection. **Y, Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
+- ``Arxiv 2024`` SimGen, Simulator-conditioned Driving Scene Generation. **Y Zhou**, M Simon, Z Peng, S Mo, H Zhu, M Guo, and B Zhou.
+- ``Arxiv 2024`` Embodied Understanding of Driving Scenarios. **Y Zhou**, L Huang, Q Bu, J Zeng, T Li, H Qiu, H Zhu, M Guo, Y Qiao, and H Li.
+- ``CVPR 2024`` Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension. Q Liu, H Zhu, Z Wang, **Y Zhou**, S Chang, and M Guo.
+- ``ICCV 2023`` Density-invariant Features for Distant Point Cloud Registration. Q Liu, H Zhu, **Y Zhou**, H Li, S Chang, and M Guo.
+- ``IJCAI 2023`` APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction. Q Liu, **Y Zhou**, H Zhu, S Chang, and M Guo.
+- ``CVPR 2023`` MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer. **Y Zhou**, H Zhu, Q Liu, S Chang, and M Guo.
+- ``NeurIPS 2022`` MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation. **Y Zhou**, Q Liu, H Zhu, Y Li, S Chang, and M Guo. **Spotlight.**
+- ``TPAMI 2021`` MonoEF: Extrinsic Parameter Free Monocular 3D Object Detection. **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
 - ``ICCV 2021`` TempNet: Online Semantic Segmentation on Large-Scale Point Cloud Series. **Y Zhou**, H Zhu, C Li, T Cui, S Chang, and M Guo.
 - ``CVPR 2021`` Monocular 3D Object Detection: An Extrinsic Parameter Free Approach. **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
-
 
 
 
@@ -111,14 +112,13 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 # 📖 Educations
 - *2020.09 - Present*, Ph.D., Computer Science, SEIEE, Shanghai Jiao Tong University.
+- *2024.01 - 2024-07*, Visiting Scholar, University of California, Los Angeles.
 - *2016.09 - 2020.06*, Bachelor, Microelectronic Science and Technology, SEIEE, Shanghai Jiao Tong University.
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
--  -->
+# 💬 Invited Talks
+- *2024.07* Invited by **SONY** to give a talk on `Generative Models in Autonomous Driving`
+- *2023.08* Invited by [**Motional**](https://motional.com/) to give a talk on `End-to-end Autonomous Driving`
