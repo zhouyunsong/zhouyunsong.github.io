@@ -29,7 +29,7 @@ redirect_from:
 
 
 
-Hi, I am a Ph.D. student from Wenjun Wu AI Hornour Class, Shanghai Jiao Tong University, majoring in Computer Science. Currently, I am supervised by Prof. Hongzi Zhu.
+Hi, I am a Ph.D. student from Wenjun Wu AI Hornour Class, Shanghai Jiao Tong University, majoring in Computer Science. Currently, I am supervised by Prof. [Hongzi Zhu](https://lion.sjtu.edu.cn/member/memberDetail?id=12).
 Meanwhile, I work as a discoverist at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info). 
 
 
@@ -37,10 +37,10 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🔥 [**SimGen**](https://github.com/MetaDriverse/SimGen) released [![](https://img.shields.io/github/stars/OpenDriveLab/ELM?style=social&label=Code+Stars)](https://github.com/MetaDriverse/SimGen)
+- *2024.03*: &nbsp;🔥 [**SimGen**](https://metadriverse.github.io/simgen) released [![](https://img.shields.io/github/stars/MetaDriverse/SimGen?style=social&label=Code+Stars)](https://github.com/MetaDriverse/SimGen)
 - *2024.06*: &nbsp;💻 Host the CVPR2024 workshop on [**Autonomous Grand Challenge**](https://opendrivelab.com/challenge2024/)
 - *2024.03*: &nbsp;🔥 [**ELM**](https://github.com/OpenDriveLab/ELM) released [![](https://img.shields.io/github/stars/OpenDriveLab/ELM?style=social&label=Code+Stars)](https://github.com/OPenDriveLab/ELM)
-- *2024.01*: &nbsp;🎉 Become a visiting scholar of [**MetaDriverse**](https://metadriverse.github.io/), University of California, Los Angeles.
+- *2024.01*: &nbsp;🎉 Become a visiting scholar at the University of California, Los Angeles, go bruins!
 - *2023.08*: &nbsp;🔥 [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) released [![](https://img.shields.io/github/stars/OpenDriveLab/OpenScene?style=social&label=Code+Stars)](https://github.com/OpenDriveLab/OpenScene)
 - *2023.06*: &nbsp;💻 Host the CVPR2023 workshop on [**E2EAD**](https://opendrivelab.com/e2ead/cvpr23.html)
 - *2022.12*: &nbsp;🎉 Become a member of [**OpenDriveLab**](https://opendrivelab.com)
@@ -49,32 +49,29 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 # 💻 Research
 
-### MetaDriverse@University of California, Los Angeles
+### `MetaDriverse | UCLA` 
 
-*2024.01 - 2024.07*, Supervisor: Prof. [Bolei Zhou](https://boleizhou.github.io/).
-
-- **Video Diffusion Models and Driving Simulators**
+*2024.01 - 2024.07*, **Video Diffusion Models and Driving Simulators**. Supervisor: [Bolei Zhou](https://boleizhou.github.io/).
 
 
-### OpenDriveLab@Shanghai AI Laboratory
+### `OpenDriveLab | Shanghai AI Lab`
 
-*2022.12 - (present)*, Supervisor: Prof. [Hongyang Li](https://lihongyang.info).
-
-- **End-to-end Autonomous Driving**
-- **Driving with Language**
-
-### LION@SJTU
-
-*2020.09 - (present)*, Supervisor: Prof. [Hongzi Zhu](https://lion.sjtu.edu.cn/member/memberDetail?id=12).
-
-- **Perception in Autonomous Driving** 
+*2022.12 - (present)*, **End-to-end Autonomous Driving** and **Driving with Language**. Supervisor: [Hongyang Li](https://lihongyang.info).
 
 
+### `LION | SJTU`
+
+*2020.09 - (present)*, **Perception in Autonomous Driving**. Supervisor: [Hongzi Zhu](https://lion.sjtu.edu.cn/member/memberDetail?id=12).
+
+
+
+<!---
 ### Mobile Agent Perception@SenseTime
 
 *2020.03 - 2020.12*, Supervisor: Prof. [Hongyang Li](https://lihongyang.info), Prof Jianping Shi.
 
 - **Monocular 3D Vision** 
+--->
 
 # 📝 Publications 
 
@@ -88,6 +85,13 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 - ``ICCV 2021`` TempNet: Online Semantic Segmentation on Large-Scale Point Cloud Series. **Y Zhou**, H Zhu, C Li, T Cui, S Chang, and M Guo.
 - ``CVPR 2021`` Monocular 3D Object Detection: An Extrinsic Parameter Free Approach. **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='assets/teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+
 ### Projects
 - [**ELM**](https://github.com/OpenDriveLab/OpenScene) (leader)
 - [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) (leader) - [DriveAGI](https://github.com/OpenDriveLab/DriveAGI)
@@ -95,7 +99,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 <!-- # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='../assets/teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
