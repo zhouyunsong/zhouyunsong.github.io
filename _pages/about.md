@@ -85,11 +85,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 - ``ICCV 2021`` TempNet: Online Semantic Segmentation on Large-Scale Point Cloud Series. **Y Zhou**, H Zhu, C Li, T Cui, S Chang, and M Guo.
 - ``CVPR 2021`` Monocular 3D Object Detection: An Extrinsic Parameter Free Approach. **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='assets/teaser.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 
 ### Projects
