@@ -33,14 +33,15 @@ Hi, I am a Ph.D. student from Wenjun Wu AI Hornour Class, Shanghai Jiao Tong Uni
 Meanwhile, I work as a discoverist at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info). 
 
 
-My research interest includes ***robotics(perception, autonomous driving), embodied AI, and computer vision***. <a href='https://scholar.google.com/citations?user=bTsmnwcAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhouYunsong-SJTU%2FZhouYunsong-SJTU.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interest includes ***robotics(perception, autonomous driving), embodied AI, and computer vision***. <a href='https://scholar.google.com/citations?user=bTsmnwcAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhouyunsong%2Fzhouyunsong.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
+- *2024.03*: &nbsp;🔥 [**SimGen**](https://github.com/MetaDriverse/SimGen) released [![](https://img.shields.io/github/stars/OpenDriveLab/ELM?style=social&label=Code+Stars)](https://github.com/MetaDriverse/SimGen)
+- *2024.06*: &nbsp;💻 Host the CVPR2024 workshop on [**Autonomous Grand Challenge**](https://opendrivelab.com/challenge2024/)
 - *2024.03*: &nbsp;🔥 [**ELM**](https://github.com/OpenDriveLab/ELM) released [![](https://img.shields.io/github/stars/OpenDriveLab/ELM?style=social&label=Code+Stars)](https://github.com/OPenDriveLab/ELM)
 - *2024.01*: &nbsp;🎉 Become a visiting scholar of [**MetaDriverse**](https://metadriverse.github.io/), University of California, Los Angeles.
-- *2023.08*: &nbsp;📰 Invited by [**Motional**](https://motional.com/) to give a talk on `End-to-end Autonomous Driving`
-- *2023.08*: &nbsp;🔥 [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) released [![](https://img.shields.io/github/stars/OpenDriveLab/OpenScene?style=social&label=Code+Stars)](https://github.com/OPenDriveLab/OpenScene)
+- *2023.08*: &nbsp;🔥 [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) released [![](https://img.shields.io/github/stars/OpenDriveLab/OpenScene?style=social&label=Code+Stars)](https://github.com/OpenDriveLab/OpenScene)
 - *2023.06*: &nbsp;💻 Host the CVPR2023 workshop on [**E2EAD**](https://opendrivelab.com/e2ead/cvpr23.html)
 - *2022.12*: &nbsp;🎉 Become a member of [**OpenDriveLab**](https://opendrivelab.com)
 - *2022.09*: &nbsp;🎉 Enrolled in Wenjun Wu AI Hornour Class
@@ -48,12 +49,18 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 # 💻 Research
 
+### MetaDriverse@University of California, Los Angeles
+
+*2024.01 - 2024.07*, Supervisor: Prof. [Bolei Zhou](https://boleizhou.github.io/).
+
+- **Video Diffusion Models and Driving Simulators**
+
+
 ### OpenDriveLab@Shanghai AI Laboratory
 
 *2022.12 - (present)*, Supervisor: Prof. [Hongyang Li](https://lihongyang.info).
 
 - **End-to-end Autonomous Driving**
-- **Visual Foundation Model and [DriveAGI](https://github.com/OpenDriveLab/DriveAGI)**
 - **Driving with Language**
 
 ### LION@SJTU
