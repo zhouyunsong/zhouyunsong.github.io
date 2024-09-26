@@ -76,7 +76,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 # 📝 Publications 
 
 ### Selected Papers
-- ``Arxiv 2024`` SimGen, Simulator-conditioned Driving Scene Generation. **Y Zhou**, M Simon, Z Peng, S Mo, H Zhu, M Guo, and B Zhou.
+- ``NeurIPS 2024`` SimGen, Simulator-conditioned Driving Scene Generation. **Y Zhou**, M Simon, Z Peng, S Mo, H Zhu, M Guo, and B Zhou.
 - ``ECCV 2024`` Embodied Understanding of Driving Scenarios. **Y Zhou**, L Huang, Q Bu, J Zeng, T Li, H Qiu, H Zhu, M Guo, Y Qiao, and H Li.
 - ``CVPR 2024`` Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension. Q Liu, H Zhu, Z Wang, **Y Zhou**, S Chang, and M Guo.
 - ``ICCV 2023`` Density-invariant Features for Distant Point Cloud Registration. Q Liu, H Zhu, **Y Zhou**, H Li, S Chang, and M Guo.
