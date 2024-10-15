@@ -104,6 +104,25 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='../assets/teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Embodied Understanding of Driving Scenarios](https://arxiv.org/abs/2403.04593) \\
+**Y Zhou**, L Huang, Q Bu, J Zeng, T Li, H Qiu, H Zhu, M Guo, Y Qiao, and H Li
+
+[**Project**](https://github.com/OpenDriveLab/ELM)
+
+- The first embodied language model for understanding the long-horizon driving scenarios in space and time.
+- ELM expands a wide spectrum of new tasks to fully leverage the capability of large language models in an embodiment setting and achieves significant improvements in various applications.
+- Interpretable driving model, on the basis of language prompting, will be a main track in the CVPR 2024 Autonomous Driving Challenge.
+</div>
+</div>
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><div class="video-container">
   <video loop autoplay muted playsinline src="../assets/img/simgen/SimGenWide.mp4"></video>
 </div></div></div>
