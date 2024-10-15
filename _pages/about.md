@@ -87,19 +87,20 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 - ``ICCV 2021`` TempNet: Online Semantic Segmentation on Large-Scale Point Cloud Series. **Y Zhou**, H Zhu, C Li, T Cui, S Chang, and M Guo.
 - ``CVPR 2021`` Monocular 3D Object Detection: An Extrinsic Parameter Free Approach. **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src="../assets/teaser.png" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[SimGen: Simulator-conditioned Driving Scene Generation]()
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../assets/teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SimGen: Simulator-conditioned Driving Scene Generation](https://arxiv.org/abs/2406.09386) \\
 **Y Zhou**, M Simon, Z Peng, S Mo, H Zhu, M Guo, and B Zhou
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src="../assets/teaser.png" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Embodied Understanding of Driving Scenarios]()
+[**Project**](https://metadriverse.github.io/simgen/)
 
-**Y Zhou**, L Huang, Q Bu, J Zeng, T Li, H Qiu, H Zhu, M Guo, Y Qiao, and H Li
-
-
+- SimGen is the first simulator-conditioned generative model for controllable driving scene generation with appearance and layout diversity.
+- SimGen addresses simulation to reality (Sim2Real) gaps via cascade diffusion paradigm, and follows layout guidance from simulators and cues of the rich text prompts to realistic driving scenarios.
+</div>
+</div>
 
 
 
