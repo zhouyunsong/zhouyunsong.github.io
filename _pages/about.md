@@ -80,7 +80,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../assets/SimGen.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../assets/SimGen.gif' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SimGen: Simulator-conditioned Driving Scene Generation](https://arxiv.org/abs/2406.09386) \\
@@ -94,7 +94,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='../assets/ELM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='../assets/ELM.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Embodied Understanding of Driving Scenarios](https://arxiv.org/abs/2403.04593) \\
@@ -109,6 +109,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 </div>
 
 
+
 - ``CVPR 2024`` Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension. Q Liu, H Zhu, Z Wang, **Y Zhou**, S Chang, and M Guo.
 - ``ICCV 2023`` Density-invariant Features for Distant Point Cloud Registration. Q Liu, H Zhu, **Y Zhou**, H Li, S Chang, and M Guo.
 - ``IJCAI 2023`` APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction. Q Liu, **Y Zhou**, H Zhu, S Chang, and M Guo.
@@ -121,6 +122,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 
 ### Projects
+- [**SimGen**](https://metadriverse.github.io/simgen/) (leader)
 - [**ELM**](https://github.com/OpenDriveLab/OpenScene) (leader)
 - [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) (leader) - [DriveAGI](https://github.com/OpenDriveLab/DriveAGI)
 
