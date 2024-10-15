@@ -76,22 +76,11 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 # 📝 Publications 
 
 ### Selected Papers
-- ``NeurIPS 2024`` SimGen: Simulator-conditioned Driving Scene Generation. **Y Zhou**, M Simon, Z Peng, S Mo, H Zhu, M Guo, and B Zhou.
-- ``ECCV 2024`` Embodied Understanding of Driving Scenarios. **Y Zhou**, L Huang, Q Bu, J Zeng, T Li, H Qiu, H Zhu, M Guo, Y Qiao, and H Li.
-- ``CVPR 2024`` Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension. Q Liu, H Zhu, Z Wang, **Y Zhou**, S Chang, and M Guo.
-- ``ICCV 2023`` Density-invariant Features for Distant Point Cloud Registration. Q Liu, H Zhu, **Y Zhou**, H Li, S Chang, and M Guo.
-- ``IJCAI 2023`` APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction. Q Liu, **Y Zhou**, H Zhu, S Chang, and M Guo.
-- ``CVPR 2023`` MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer. **Y Zhou**, H Zhu, Q Liu, S Chang, and M Guo.
-- ``NeurIPS 2022`` MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation. **Y Zhou**, Q Liu, H Zhu, Y Li, S Chang, and M Guo. **Spotlight.**
-- ``TPAMI 2021`` MonoEF: Extrinsic Parameter Free Monocular 3D Object Detection. **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
-- ``ICCV 2021`` TempNet: Online Semantic Segmentation on Large-Scale Point Cloud Series. **Y Zhou**, H Zhu, C Li, T Cui, S Chang, and M Guo.
-- ``CVPR 2021`` Monocular 3D Object Detection: An Extrinsic Parameter Free Approach. **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
 
-<div class="video-container">
-  <video loop autoplay muted playsinline src="../assets/SimGenWide.mp4"></video>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../assets/teaser.png' alt="sym" width="100%"></div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../assets/SimGen.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SimGen: Simulator-conditioned Driving Scene Generation](https://arxiv.org/abs/2406.09386) \\
@@ -105,7 +94,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='../assets/teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='../assets/ELM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Embodied Understanding of Driving Scenarios](https://arxiv.org/abs/2403.04593) \\
@@ -120,24 +109,14 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 </div>
 
 
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><div class="video-container">
-  <video loop autoplay muted playsinline src="../assets/SimGenWide.mp4"></video>
-</div></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SimGen: Simulator-conditioned Driving Scene Generation](https://arxiv.org/abs/2406.09386) \\
-**Y Zhou**, M Simon, Z Peng, S Mo, H Zhu, M Guo, and B Zhou
-
-[**Project**](https://metadriverse.github.io/simgen/)
-
-- SimGen is the first simulator-conditioned generative model for controllable driving scene generation with appearance and layout diversity.
-- SimGen addresses simulation to reality (Sim2Real) gaps via cascade diffusion paradigm, and follows layout guidance from simulators and cues of the rich text prompts to realistic driving scenarios.
-</div>
-</div>
-
+- ``CVPR 2024`` Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension. Q Liu, H Zhu, Z Wang, **Y Zhou**, S Chang, and M Guo.
+- ``ICCV 2023`` Density-invariant Features for Distant Point Cloud Registration. Q Liu, H Zhu, **Y Zhou**, H Li, S Chang, and M Guo.
+- ``IJCAI 2023`` APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction. Q Liu, **Y Zhou**, H Zhu, S Chang, and M Guo.
+- ``CVPR 2023`` MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer. **Y Zhou**, H Zhu, Q Liu, S Chang, and M Guo.
+- ``NeurIPS 2022`` MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation. **Y Zhou**, Q Liu, H Zhu, Y Li, S Chang, and M Guo. **Spotlight.**
+- ``TPAMI 2021`` MonoEF: Extrinsic Parameter Free Monocular 3D Object Detection. **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
+- ``ICCV 2021`` TempNet: Online Semantic Segmentation on Large-Scale Point Cloud Series. **Y Zhou**, H Zhu, C Li, T Cui, S Chang, and M Guo.
+- ``CVPR 2021`` Monocular 3D Object Detection: An Extrinsic Parameter Free Approach. **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
 
 
 
