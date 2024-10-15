@@ -76,7 +76,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 # 📝 Publications 
 
 ### Selected Papers
-- ``NeurIPS 2024`` SimGen, Simulator-conditioned Driving Scene Generation. **Y Zhou**, M Simon, Z Peng, S Mo, H Zhu, M Guo, and B Zhou.
+- ``NeurIPS 2024`` SimGen: Simulator-conditioned Driving Scene Generation. **Y Zhou**, M Simon, Z Peng, S Mo, H Zhu, M Guo, and B Zhou.
 - ``ECCV 2024`` Embodied Understanding of Driving Scenarios. **Y Zhou**, L Huang, Q Bu, J Zeng, T Li, H Qiu, H Zhu, M Guo, Y Qiao, and H Li.
 - ``CVPR 2024`` Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension. Q Liu, H Zhu, Z Wang, **Y Zhou**, S Chang, and M Guo.
 - ``ICCV 2023`` Density-invariant Features for Distant Point Cloud Registration. Q Liu, H Zhu, **Y Zhou**, H Li, S Chang, and M Guo.
@@ -86,6 +86,21 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 - ``TPAMI 2021`` MonoEF: Extrinsic Parameter Free Monocular 3D Object Detection. **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
 - ``ICCV 2021`` TempNet: Online Semantic Segmentation on Large-Scale Point Cloud Series. **Y Zhou**, H Zhu, C Li, T Cui, S Chang, and M Guo.
 - ``CVPR 2021`` Monocular 3D Object Detection: An Extrinsic Parameter Free Approach. **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src="../assets/teaser.png" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[SimGen: Simulator-conditioned Driving Scene Generation]()
+
+**Y Zhou**, M Simon, Z Peng, S Mo, H Zhu, M Guo, and B Zhou
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src="../assets/teaser.png" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Embodied Understanding of Driving Scenarios]()
+
+**Y Zhou**, L Huang, Q Bu, J Zeng, T Li, H Qiu, H Zhu, M Guo, Y Qiao, and H Li
+
+
+
 
 
 
