@@ -80,7 +80,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../assets/SimGen.gif' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../assets/SimGen.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SimGen: Simulator-conditioned Driving Scene Generation](https://arxiv.org/abs/2406.09386) \\
@@ -94,7 +94,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='../assets/ELM.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='../assets/ELM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Embodied Understanding of Driving Scenarios](https://arxiv.org/abs/2403.04593) \\
