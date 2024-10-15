@@ -88,7 +88,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 - ``CVPR 2021`` Monocular 3D Object Detection: An Extrinsic Parameter Free Approach. **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
 
 <div class="video-container">
-  <video loop autoplay muted playsinline src="../assets/img/simgen/SimGenWide.mp4"></video>
+  <video loop autoplay muted playsinline src="../assets/SimGenWide.mp4"></video>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../assets/teaser.png' alt="sym" width="100%"></div></div>
@@ -124,7 +124,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><div class="video-container">
-  <video loop autoplay muted playsinline src="../assets/img/simgen/SimGenWide.mp4"></video>
+  <video loop autoplay muted playsinline src="../assets/SimGenWide.mp4"></video>
 </div></div></div>
 <div class='paper-box-text' markdown="1">
 
