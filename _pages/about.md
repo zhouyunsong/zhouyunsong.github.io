@@ -80,13 +80,13 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 
 
-<div class='paper-box'><div class='paper-box-image' width="50%"><div><div class="badge">NeurIPS 2024</div><img src='../assets/SimGen.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../assets/SimGen.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SimGen: Simulator-conditioned Driving Scene Generation](https://arxiv.org/abs/2406.09386) \\
-**Y Zhou**, M Simon, Z Peng, S Mo, H Zhu, M Guo, and B Zhou
-
-[**Project**](https://metadriverse.github.io/simgen/)
+SimGen: Simulator-conditioned Driving Scene Generation \\
+**Yunsong Zhou**, Michael Simon, Zhenghao Peng, Sicheng Mo, Hongzi Zhu, Minyi Guo, and Bolei Zhou \\
+<a href="https://metadriverse.github.io/simgen/"><img src="https://img.shields.io/badge/Project-Page-orange"></a>
+<a href="https://arxiv.org/abs/2406.09386"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
 
 - SimGen is the first simulator-conditioned generative model for controllable driving scene generation with appearance and layout diversity.
 - SimGen addresses simulation to reality (Sim2Real) gaps via cascade diffusion paradigm, and follows layout guidance from simulators and cues of the rich text prompts to realistic driving scenarios.
