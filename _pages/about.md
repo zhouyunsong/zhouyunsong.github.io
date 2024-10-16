@@ -83,7 +83,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../assets/SimGen.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-:fire:SimGen: Simulator-conditioned Driving Scene Generation \\
+🔥SimGen: Simulator-conditioned Driving Scene Generation \\
 **Yunsong Zhou**, Michael Simon, Zhenghao Peng, Sicheng Mo, Hongzi Zhu, Minyi Guo, and Bolei Zhou \\
 <a href="https://metadriverse.github.io/simgen/"><img src="https://img.shields.io/badge/Project-Page-orange"></a>
 <a href="https://arxiv.org/abs/2406.09386"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
@@ -95,7 +95,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='../assets/ELM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-:fire:Embodied Understanding of Driving Scenarios \\
+🔥Embodied Understanding of Driving Scenarios \\
 **Yunsong Zhou**, Linyan Huang, Qingwen Bu, Jia Zeng, Tianyu Li, Hang Qiu, Hongzi Zhu, Minyi Guo, Yu Qiao, and Hongyang Li \\
 <a href="https://github.com/OpenDriveLab/ELM"><img src="https://img.shields.io/badge/Project-Page-orange"></a>
 <a href="https://arxiv.org/abs/2403.04593"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
@@ -108,7 +108,6 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='../assets/EYOC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!---
 Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension \\
 Quan Liu, Hongzi Zhu, Zhenxi Wang, **Yunsong Zhou**, Shan Chang, and Minyi Guo \\
 <a href="https://github.com/liuQuan98/EYOC"><img src="https://img.shields.io/badge/Project-Page-orange"></a>
@@ -117,10 +116,7 @@ Quan Liu, Hongzi Zhu, Zhenxi Wang, **Yunsong Zhou**, Shan Chang, and Minyi Guo \
 > An unsupervised distant point cloud registration method that adapts to new point cloud distributions on the fly.
 </div>
 </div>
---->
 
-
-- ``CVPR 2024`` Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension. Q Liu, H Zhu, Z Wang, **Y Zhou**, S Chang, and M Guo.
 - ``ICCV 2023`` Density-invariant Features for Distant Point Cloud Registration. Q Liu, H Zhu, **Y Zhou**, H Li, S Chang, and M Guo.
 - ``IJCAI 2023`` APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction. Q Liu, **Y Zhou**, H Zhu, S Chang, and M Guo.
 - ``CVPR 2023`` MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer. **Y Zhou**, H Zhu, Q Liu, S Chang, and M Guo.
