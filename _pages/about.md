@@ -83,31 +83,41 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../assets/SimGen.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SimGen: Simulator-conditioned Driving Scene Generation \\
+:fire:SimGen: Simulator-conditioned Driving Scene Generation \\
 **Yunsong Zhou**, Michael Simon, Zhenghao Peng, Sicheng Mo, Hongzi Zhu, Minyi Guo, and Bolei Zhou \\
 <a href="https://metadriverse.github.io/simgen/"><img src="https://img.shields.io/badge/Project-Page-orange"></a>
 <a href="https://arxiv.org/abs/2406.09386"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
 
-- SimGen is the first simulator-conditioned generative model for controllable driving scene generation with appearance and layout diversity.
-- SimGen addresses simulation to reality (Sim2Real) gaps via cascade diffusion paradigm, and follows layout guidance from simulators and cues of the rich text prompts to realistic driving scenarios.
+> SimGen is the first simulator-conditioned generative model for controllable driving scene generation with appearance and layout diversity.
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='../assets/ELM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Embodied Understanding of Driving Scenarios](https://arxiv.org/abs/2403.04593) \\
-**Y Zhou**, L Huang, Q Bu, J Zeng, T Li, H Qiu, H Zhu, M Guo, Y Qiao, and H Li
+:fire:Embodied Understanding of Driving Scenarios \\
+**Yunsong Zhou**, Linyan Huang, Qingwen Bu, Jia Zeng, Tianyu Li, Hang Qiu, Hongzi Zhu, Minyi Guo, Yu Qiao, and Hongyang Li \\
+<a href="https://github.com/OpenDriveLab/ELM"><img src="https://img.shields.io/badge/Project-Page-orange"></a>
+<a href="https://arxiv.org/abs/2403.04593"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
+<a href="https://opendrivelab.com/challenge2024/"><img src="https://img.shields.io/badge/Challenge-Page-black"></a>
 
-[**Project**](https://github.com/OpenDriveLab/ELM)
-
-- The first embodied language model for understanding the long-horizon driving scenarios in space and time.
-- ELM expands a wide spectrum of new tasks to fully leverage the capability of large language models in an embodiment setting and achieves significant improvements in various applications.
-- Interpretable driving model, on the basis of language prompting, will be a main track in the CVPR 2024 Autonomous Driving Challenge.
+> The first embodied language model for understanding the long-horizon driving scenarios in space and time.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='../assets/EYOC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<!---
+Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension \\
+Quan Liu, Hongzi Zhu, Zhenxi Wang, **Yunsong Zhou**, Shan Chang, and Minyi Guo \\
+<a href="https://github.com/liuQuan98/EYOC"><img src="https://img.shields.io/badge/Project-Page-orange"></a>
+<a href="https://arxiv.org/abs/2403.03532"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
+
+> An unsupervised distant point cloud registration method that adapts to new point cloud distributions on the fly.
+</div>
+</div>
+--->
 
 
 - ``CVPR 2024`` Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension. Q Liu, H Zhu, Z Wang, **Y Zhou**, S Chang, and M Guo.
@@ -118,7 +128,6 @@ SimGen: Simulator-conditioned Driving Scene Generation \\
 - ``TPAMI 2021`` MonoEF: Extrinsic Parameter Free Monocular 3D Object Detection. **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
 - ``ICCV 2021`` TempNet: Online Semantic Segmentation on Large-Scale Point Cloud Series. **Y Zhou**, H Zhu, C Li, T Cui, S Chang, and M Guo.
 - ``CVPR 2021`` Monocular 3D Object Detection: An Extrinsic Parameter Free Approach. **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
-
 
 
 ### Projects
