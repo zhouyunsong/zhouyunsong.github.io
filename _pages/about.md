@@ -85,8 +85,8 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 🔥SimGen: Simulator-conditioned Driving Scene Generation \\
 **Yunsong Zhou**, Michael Simon, Zhenghao Peng, Sicheng Mo, Hongzi Zhu, Minyi Guo, and Bolei Zhou \\
-<a href="https://metadriverse.github.io/simgen/"><img src="https://img.shields.io/badge/Project-Page-orange"></a>
-<a href="https://arxiv.org/abs/2406.09386"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
+<a href="https://metadriverse.github.io/simgen/"><img src="https://img.shields.io/badge/Project-orange"></a>
+<a href="https://arxiv.org/abs/2406.09386"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
 
 </div>
 </div>
@@ -96,9 +96,9 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 🔥Embodied Understanding of Driving Scenarios \\
 **Yunsong Zhou**, Linyan Huang, Qingwen Bu, Jia Zeng, Tianyu Li, Hang Qiu, Hongzi Zhu, Minyi Guo, Yu Qiao, and Hongyang Li \\
-<a href="https://github.com/OpenDriveLab/ELM"><img src="https://img.shields.io/badge/Project-Page-orange"></a>
-<a href="https://arxiv.org/abs/2403.04593"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
-<a href="https://opendrivelab.com/challenge2024/"><img src="https://img.shields.io/badge/Challenge-Page-black"></a>
+<a href="https://github.com/OpenDriveLab/ELM"><img src="https://img.shields.io/badge/Project-orange"></a>
+<a href="https://arxiv.org/abs/2403.04593"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
+<a href="https://opendrivelab.com/challenge2024/"><img src="https://img.shields.io/badge/Challenge-black"></a>
 
 </div>
 </div>
@@ -108,8 +108,8 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension \\
 Quan Liu, Hongzi Zhu, Zhenxi Wang, **Yunsong Zhou**, Shan Chang, and Minyi Guo \\
-<a href="https://github.com/liuQuan98/EYOC"><img src="https://img.shields.io/badge/Project-Page-orange"></a>
-<a href="https://arxiv.org/abs/2403.03532"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
+<a href="https://github.com/liuQuan98/EYOC"><img src="https://img.shields.io/badge/Project-orange"></a>
+<a href="https://arxiv.org/abs/2403.03532"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
 
 </div>
 </div>
