@@ -88,7 +88,6 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 <a href="https://metadriverse.github.io/simgen/"><img src="https://img.shields.io/badge/Project-Page-orange"></a>
 <a href="https://arxiv.org/abs/2406.09386"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
 
-> SimGen is the first simulator-conditioned generative model for controllable driving scene generation with appearance and layout diversity.
 </div>
 </div>
 
@@ -101,7 +100,6 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 <a href="https://arxiv.org/abs/2403.04593"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
 <a href="https://opendrivelab.com/challenge2024/"><img src="https://img.shields.io/badge/Challenge-Page-black"></a>
 
-> The first embodied language model for understanding the long-horizon driving scenarios in space and time.
 </div>
 </div>
 
@@ -113,7 +111,6 @@ Quan Liu, Hongzi Zhu, Zhenxi Wang, **Yunsong Zhou**, Shan Chang, and Minyi Guo \
 <a href="https://github.com/liuQuan98/EYOC"><img src="https://img.shields.io/badge/Project-Page-orange"></a>
 <a href="https://arxiv.org/abs/2403.03532"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
 
-> An unsupervised distant point cloud registration method that adapts to new point cloud distributions on the fly.
 </div>
 </div>
 
