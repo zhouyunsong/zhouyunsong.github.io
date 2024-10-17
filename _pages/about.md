@@ -29,7 +29,7 @@ redirect_from:
 
 
 
-Hi, I am a Ph.D. student from Wenjun Wu AI Hornour Class, Shanghai Jiao Tong University, majoring in Computer Science. Currently, I am supervised by Prof. [Hongzi Zhu](https://lion.sjtu.edu.cn/member/memberDetail?id=12).
+Hi, I am a Ph.D. student from Wenjun Wu AI Hornour Class, Shanghai Jiao Tong University, majoring in Computer Science. Currently, I am supervised by Prof. [Hongzi Zhu](https://lion.sjtu.edu.cn/member/memberDetail?id=12) and [Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/).
 Meanwhile, I work as a discoverist at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info). 
 
 
@@ -49,7 +49,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 # 💻 Research
 
-### `MetaDriverse | UCLA` 
+### `MetaDriverse | University of California, LA` 
 
 *2024.01 - 2024.07*, **Video Diffusion Models and Driving Simulators**. Supervisor: [Bolei Zhou](https://boleizhou.github.io/).
 
@@ -59,9 +59,9 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 *2022.12 - (present)*, **End-to-end Autonomous Driving** and **Driving with Language**. Supervisor: [Hongyang Li](https://lihongyang.info).
 
 
-### `LION | SJTU`
+### `LION | Shanghai Jiao Tong University`
 
-*2020.09 - (present)*, **Perception in Autonomous Driving**. Supervisor: [Hongzi Zhu](https://lion.sjtu.edu.cn/member/memberDetail?id=12).
+*2020.09 - (present)*, **Perception in Autonomous Driving**. Supervisor: [Hongzi Zhu](https://lion.sjtu.edu.cn/member/memberDetail?id=12) and [Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/).
 
 
 
