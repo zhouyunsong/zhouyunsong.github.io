@@ -111,19 +111,94 @@ Quan Liu, Hongzi Zhu, Zhenxi Wang, **Yunsong Zhou**, Shan Chang, and Minyi Guo \
 </div>
 </div>
 
-- ``ICCV 2023`` Density-invariant Features for Distant Point Cloud Registration. Q Liu, H Zhu, **Y Zhou**, H Li, S Chang, and M Guo.
-- ``IJCAI 2023`` APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction. Q Liu, **Y Zhou**, H Zhu, S Chang, and M Guo.
-- ``CVPR 2023`` MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer. **Y Zhou**, H Zhu, Q Liu, S Chang, and M Guo.
-- ``NeurIPS 2022`` MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation. **Y Zhou**, Q Liu, H Zhu, Y Li, S Chang, and M Guo. **Spotlight.**
-- ``TPAMI 2021`` MonoEF: Extrinsic Parameter Free Monocular 3D Object Detection. **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
-- ``ICCV 2021`` TempNet: Online Semantic Segmentation on Large-Scale Point Cloud Series. **Y Zhou**, H Zhu, C Li, T Cui, S Chang, and M Guo.
-- ``CVPR 2021`` Monocular 3D Object Detection: An Extrinsic Parameter Free Approach. **Y Zhou**, Y He, H Zhu, C Wang, H Li, and Q Jiang.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='../assets/GCL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Density-invariant Features for Distant Point Cloud Registration \\
+Quan Liu, Hongzi Zhu, **Yunsong Zhou**, Hongyang Li, Shan Chang, and Minyi Guo \\
+<a href="https://github.com/liuQuan98/GCL"><img src="https://img.shields.io/badge/Project-orange"></a>
+<a href="https://arxiv.org/abs/2307.09788"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='../assets/APR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction \\
+Quan Liu, **Yunsong Zhou**, Hongzi Zhu, Shan Chang, and Minyi Guo \\
+<a href="https://github.com/liuQuan98/APR"><img src="https://img.shields.io/badge/Project-orange"></a>
+<a href="https://arxiv.org/abs/2305.02893"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../assets/MonoATT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer \\
+**Yunsong Zhou**, Hongzi Zhu, Quan Liu, Shan Chang, and Minyi Guo \\
+<a href="https://arxiv.org/abs/2303.13018"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='../assets/MoGDE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation \\
+**Yunsong Zhou**, Quan Liu, Hongzi Zhu, Yunzhe Li, Shan Chang, and Minyi Guo. **Spotlight.** \\
+<a href="https://arxiv.org/abs/2303.13561"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2021</div><img src='../assets/MonoEF_PAMI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MonoEF: Extrinsic Parameter Free Monocular 3D Object Detection \\
+**Yunsong Zhou**, Yuan He, Hongzi Zhu, Cheng Wang, Hongyang Li, and Qinhong Jiang \\
+<a href="https://github.com/zhouyunsong/MonoEF"><img src="https://img.shields.io/badge/Project-orange"></a>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9658214"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='../assets/TempNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+TempNet: Online Semantic Segmentation on Large-Scale Point Cloud Series \\
+**Yunsong Zhou**, Hongzi Zhu, Chunqin Li, Tiankai Cui, Shan Chang, and Minyi Guo \\
+<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_TempNet_Online_Semantic_Segmentation_on_Large-Scale_Point_Cloud_Series_ICCV_2021_paper.pdf"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='../assets/MonoEF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Monocular 3D Object Detection: An Extrinsic Parameter Free Approach \\
+**Yunsong Zhou**, Yuan He, Hongzi Zhu, Cheng Wang, Hongyang Li, and Qinhong Jiang \\
+<a href="https://github.com/zhouyunsong/MonoEF"><img src="https://img.shields.io/badge/Project-orange"></a>
+<a href="https://arxiv.org/abs/2106.15796"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
+
+</div>
+</div>
 
 
 ### Projects
-- [**SimGen**](https://metadriverse.github.io/simgen/)
-- [**ELM**](https://github.com/OpenDriveLab/OpenScene)
-- [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) - [DriveAGI](https://github.com/OpenDriveLab/DriveAGI)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Challenge</div><img src='../assets/OpenScene.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+OpenScene: Autonomous Grand Challenge Toolkits \\
+<a href="https://github.com/OpenDriveLab/OpenScene"><img src="https://img.shields.io/badge/Project-orange"></a>
+<a href="https://opendrivelab.com/challenge2024/"><img src="https://img.shields.io/badge/Challenge-black"></a>
+
+</div>
+</div>
 
 
 <!-- # 📝 Publications 
