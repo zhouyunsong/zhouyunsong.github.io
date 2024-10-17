@@ -25,7 +25,7 @@ redirect_from:
 
 </div>
 
-> A glimpse of Hermosa Beach, Los Angeles, California, where La La Land was filmed.
+> A glimpse of Hermosa Beach, Los Angeles, California, where [La La Land](https://en.wikipedia.org/wiki/La_La_Land) was filmed.
 
 
 
