@@ -75,12 +75,12 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 # 📝 Publications 
 
-### Selected Papers
+## 🔥Highlighted Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../assets/SimGen.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🔥SimGen: Simulator-conditioned Driving Scene Generation \\
+SimGen: Simulator-conditioned Driving Scene Generation \\
 **Yunsong Zhou**, Michael Simon, Zhenghao Peng, Sicheng Mo, Hongzi Zhu, Minyi Guo, and Bolei Zhou \\
 <a href="https://metadriverse.github.io/simgen/"><img src="https://img.shields.io/badge/Project-orange"></a>
 <a href="https://arxiv.org/abs/2406.09386"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
@@ -91,7 +91,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='../assets/ELM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🔥Embodied Understanding of Driving Scenarios \\
+Embodied Understanding of Driving Scenarios \\
 **Yunsong Zhou**, Linyan Huang, Qingwen Bu, Jia Zeng, Tianyu Li, Hang Qiu, Hongzi Zhu, Minyi Guo, Yu Qiao, and Hongyang Li \\
 <a href="https://github.com/OpenDriveLab/ELM"><img src="https://img.shields.io/badge/Project-orange"></a>
 <a href="https://arxiv.org/abs/2403.04593"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
@@ -99,6 +99,8 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 </div>
 </div>
+
+## Perception in Autonomous Driving
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='../assets/EYOC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -188,7 +190,7 @@ Monocular 3D Object Detection: An Extrinsic Parameter Free Approach \\
 </div>
 
 
-### Projects
+## Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Challenge</div><img src='../assets/OpenScene.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
