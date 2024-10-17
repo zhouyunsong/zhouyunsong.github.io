@@ -82,8 +82,8 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 SimGen: Simulator-conditioned Driving Scene Generation \\
 **Yunsong Zhou**, Michael Simon, Zhenghao Peng, Sicheng Mo, Hongzi Zhu, Minyi Guo, and Bolei Zhou \\
-<a href="https://metadriverse.github.io/simgen/"><img src="https://img.shields.io/badge/Project-orange"></a>
-<a href="https://arxiv.org/abs/2406.09386"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
+<a href="https://metadriverse.github.io/simgen/"><img src="https://img.shields.io/badge/Project-white"></a>
+<a href="https://arxiv.org/abs/2406.09386"><img src="https://img.shields.io/badge/arXiv-white"></a>
 
 </div>
 </div>
@@ -93,9 +93,9 @@ SimGen: Simulator-conditioned Driving Scene Generation \\
 
 Embodied Understanding of Driving Scenarios \\
 **Yunsong Zhou**, Linyan Huang, Qingwen Bu, Jia Zeng, Tianyu Li, Hang Qiu, Hongzi Zhu, Minyi Guo, Yu Qiao, and Hongyang Li \\
-<a href="https://github.com/OpenDriveLab/ELM"><img src="https://img.shields.io/badge/Project-orange"></a>
-<a href="https://arxiv.org/abs/2403.04593"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
-<a href="https://opendrivelab.com/challenge2024/"><img src="https://img.shields.io/badge/Challenge-black"></a>
+<a href="https://github.com/OpenDriveLab/ELM"><img src="https://img.shields.io/badge/Project-white"></a>
+<a href="https://arxiv.org/abs/2403.04593"><img src="https://img.shields.io/badge/arXiv-white"></a>
+<a href="https://opendrivelab.com/challenge2024/"><img src="https://img.shields.io/badge/Challenge-blue"></a>
 
 </div>
 </div>
@@ -107,8 +107,8 @@ Embodied Understanding of Driving Scenarios \\
 
 Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension \\
 Quan Liu, Hongzi Zhu, Zhenxi Wang, **Yunsong Zhou**, Shan Chang, and Minyi Guo \\
-<a href="https://github.com/liuQuan98/EYOC"><img src="https://img.shields.io/badge/Project-orange"></a>
-<a href="https://arxiv.org/abs/2403.03532"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
+<a href="https://github.com/liuQuan98/EYOC"><img src="https://img.shields.io/badge/Project-white"></a>
+<a href="https://arxiv.org/abs/2403.03532"><img src="https://img.shields.io/badge/arXiv-white"></a>
 
 </div>
 </div>
@@ -118,8 +118,8 @@ Quan Liu, Hongzi Zhu, Zhenxi Wang, **Yunsong Zhou**, Shan Chang, and Minyi Guo \
 
 Density-invariant Features for Distant Point Cloud Registration \\
 Quan Liu, Hongzi Zhu, **Yunsong Zhou**, Hongyang Li, Shan Chang, and Minyi Guo \\
-<a href="https://github.com/liuQuan98/GCL"><img src="https://img.shields.io/badge/Project-orange"></a>
-<a href="https://arxiv.org/abs/2307.09788"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
+<a href="https://github.com/liuQuan98/GCL"><img src="https://img.shields.io/badge/Project-white"></a>
+<a href="https://arxiv.org/abs/2307.09788"><img src="https://img.shields.io/badge/arXiv-white"></a>
 
 </div>
 </div>
@@ -129,8 +129,8 @@ Quan Liu, Hongzi Zhu, **Yunsong Zhou**, Hongyang Li, Shan Chang, and Minyi Guo \
 
 APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction \\
 Quan Liu, **Yunsong Zhou**, Hongzi Zhu, Shan Chang, and Minyi Guo \\
-<a href="https://github.com/liuQuan98/APR"><img src="https://img.shields.io/badge/Project-orange"></a>
-<a href="https://arxiv.org/abs/2305.02893"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
+<a href="https://github.com/liuQuan98/APR"><img src="https://img.shields.io/badge/Project-white"></a>
+<a href="https://arxiv.org/abs/2305.02893"><img src="https://img.shields.io/badge/arXiv-white"></a>
 
 </div>
 </div>
@@ -141,7 +141,7 @@ Quan Liu, **Yunsong Zhou**, Hongzi Zhu, Shan Chang, and Minyi Guo \\
 
 MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer \\
 **Yunsong Zhou**, Hongzi Zhu, Quan Liu, Shan Chang, and Minyi Guo \\
-<a href="https://arxiv.org/abs/2303.13018"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
+<a href="https://arxiv.org/abs/2303.13018"><img src="https://img.shields.io/badge/arXiv-white"></a>
 
 </div>
 </div>
@@ -151,7 +151,7 @@ MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer \\
 
 MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation \\
 **Yunsong Zhou**, Quan Liu, Hongzi Zhu, Yunzhe Li, Shan Chang, and Minyi Guo. **Spotlight.** \\
-<a href="https://arxiv.org/abs/2303.13561"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
+<a href="https://arxiv.org/abs/2303.13561"><img src="https://img.shields.io/badge/arXiv-white"></a>
 
 </div>
 </div>
@@ -162,8 +162,8 @@ MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimatio
 
 MonoEF: Extrinsic Parameter Free Monocular 3D Object Detection \\
 **Yunsong Zhou**, Yuan He, Hongzi Zhu, Cheng Wang, Hongyang Li, and Qinhong Jiang \\
-<a href="https://github.com/zhouyunsong/MonoEF"><img src="https://img.shields.io/badge/Project-orange"></a>
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9658214"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
+<a href="https://github.com/zhouyunsong/MonoEF"><img src="https://img.shields.io/badge/Project-white"></a>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9658214"><img src="https://img.shields.io/badge/arXiv-white"></a>
 
 </div>
 </div>
@@ -173,7 +173,7 @@ MonoEF: Extrinsic Parameter Free Monocular 3D Object Detection \\
 
 TempNet: Online Semantic Segmentation on Large-Scale Point Cloud Series \\
 **Yunsong Zhou**, Hongzi Zhu, Chunqin Li, Tiankai Cui, Shan Chang, and Minyi Guo \\
-<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_TempNet_Online_Semantic_Segmentation_on_Large-Scale_Point_Cloud_Series_ICCV_2021_paper.pdf"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
+<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_TempNet_Online_Semantic_Segmentation_on_Large-Scale_Point_Cloud_Series_ICCV_2021_paper.pdf"><img src="https://img.shields.io/badge/arXiv-white"></a>
 
 </div>
 </div>
@@ -183,8 +183,8 @@ TempNet: Online Semantic Segmentation on Large-Scale Point Cloud Series \\
 
 Monocular 3D Object Detection: An Extrinsic Parameter Free Approach \\
 **Yunsong Zhou**, Yuan He, Hongzi Zhu, Cheng Wang, Hongyang Li, and Qinhong Jiang \\
-<a href="https://github.com/zhouyunsong/MonoEF"><img src="https://img.shields.io/badge/Project-orange"></a>
-<a href="https://arxiv.org/abs/2106.15796"><img src="https://img.shields.io/badge/arXiv-<color>"></a>
+<a href="https://github.com/zhouyunsong/MonoEF"><img src="https://img.shields.io/badge/Project-white"></a>
+<a href="https://arxiv.org/abs/2106.15796"><img src="https://img.shields.io/badge/arXiv-white"></a>
 
 </div>
 </div>
@@ -196,8 +196,8 @@ Monocular 3D Object Detection: An Extrinsic Parameter Free Approach \\
 <div class='paper-box-text' markdown="1">
 
 OpenScene: Autonomous Grand Challenge Toolkits \\
-<a href="https://github.com/OpenDriveLab/OpenScene"><img src="https://img.shields.io/badge/Project-orange"></a>
-<a href="https://opendrivelab.com/challenge2024/"><img src="https://img.shields.io/badge/Challenge-black"></a>
+<a href="https://github.com/OpenDriveLab/OpenScene"><img src="https://img.shields.io/badge/Project-white"></a>
+<a href="https://opendrivelab.com/challenge2024/"><img src="https://img.shields.io/badge/Challenge-blue"></a>
 
 </div>
 </div>
