@@ -94,7 +94,7 @@ SimGen: Simulator-conditioned Driving Scene Generation \\
 Embodied Understanding of Driving Scenarios \\
 **Yunsong Zhou**, Linyan Huang, Qingwen Bu, Jia Zeng, Tianyu Li, Hang Qiu, Hongzi Zhu, Minyi Guo, Yu Qiao, and Hongyang Li \\
 <a href="https://arxiv.org/abs/2403.04593"><img src="https://img.shields.io/badge/arXiv-white"></a>
-<a href="https://github.com/OpenDriveLab/ELM"><img src="https://img.shields.io/badge/Project-white"></a>
+<a href="https://opendrivelab.github.io/elm.github.io"><img src="https://img.shields.io/badge/Project-white"></a>
 <a href="https://opendrivelab.com/challenge2024/"><img src="https://img.shields.io/badge/Challenge-blue"></a>
 
 </div>
