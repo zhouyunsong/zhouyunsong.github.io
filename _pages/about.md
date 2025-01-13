@@ -37,7 +37,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🔥 [**SimGen**](https://metadriverse.github.io/simgen) released [![](https://img.shields.io/github/stars/MetaDriverse/SimGen?style=social&label=Code+Stars)](https://github.com/MetaDriverse/SimGen)
+- *2024.12*: &nbsp;🔥 [**SimGen**](https://metadriverse.github.io/simgen) released [![](https://img.shields.io/github/stars/MetaDriverse/SimGen?style=social&label=Code+Stars)](https://github.com/MetaDriverse/SimGen)
 - *2024.06*: &nbsp;💻 Host the CVPR2024 workshop on [**Autonomous Grand Challenge**](https://opendrivelab.com/challenge2024/)
 - *2024.03*: &nbsp;🔥 [**ELM**](https://github.com/OpenDriveLab/ELM) released [![](https://img.shields.io/github/stars/OpenDriveLab/ELM?style=social&label=Code+Stars)](https://github.com/OPenDriveLab/ELM)
 - *2024.01*: &nbsp;🎉 Become a visiting scholar at the University of California, Los Angeles, go bruins!
@@ -101,6 +101,16 @@ Embodied Understanding of Driving Scenarios \\
 </div>
 
 ## Perception in Autonomous Driving
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='../assets/GEM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+GEM: Grounding Depth Estimation for Monocular 3D Object Detection \\
+**Yunsong Zhou**, Quan Liu, Hongzi Zhu, Yunzhe Li, Shan Chang, and Minyi Guo \\
+<a href="https://arxiv.org/abs/2303.13561"><img src="https://img.shields.io/badge/arXiv-white"></a>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='../assets/EYOC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
