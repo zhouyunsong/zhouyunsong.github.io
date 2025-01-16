@@ -105,9 +105,9 @@ Embodied Understanding of Driving Scenarios \\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='../assets/GEM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-GEM: Grounding Depth Estimation for Monocular 3D Object Detection \\
+Exploiting Grounding Depth Estimation for Mobile Monocular 3D Object Detection \\
 **Yunsong Zhou**, Quan Liu, Hongzi Zhu, Yunzhe Li, Shan Chang, and Minyi Guo \\
-<a href="https://arxiv.org/abs/2303.13561"><img src="https://img.shields.io/badge/arXiv-white"></a>
+<a href="https://ieeexplore.ieee.org/document/10842472"><img src="https://img.shields.io/badge/arXiv-white"></a>
 
 </div>
 </div>
