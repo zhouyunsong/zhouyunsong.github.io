@@ -101,7 +101,7 @@ SimGen: Simulator-conditioned Driving Scene Generation \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='../assets/ELM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='../assets/ELM.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Embodied Understanding of Driving Scenarios \\
