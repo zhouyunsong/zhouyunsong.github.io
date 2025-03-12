@@ -77,6 +77,19 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 ## 🔥Highlighted Papers
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../assets/Nexus.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Decoupled Diffusion Sparks Adaptive Scene Generation \\
+**Yunsong Zhou**, Naisheng Ye, William Ljungbergh, Tianyu Li, Jiazhi Yang, Zetong Yang, Hongzi Zhu, Christoffer Petersson, Hongyang Li \\
+<a href=""><img src="https://img.shields.io/badge/arXiv-white"></a>
+<a href=""><img src="https://img.shields.io/badge/Project-white"></a>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../assets/SimGen.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
