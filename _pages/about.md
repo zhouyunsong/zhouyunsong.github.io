@@ -30,7 +30,9 @@ redirect_from:
 
 
 Hi, I am a Ph.D. student from Wenjun Wu AI Hornour Class, Shanghai Jiao Tong University, majoring in Computer Science. Currently, I am supervised by Prof. [Hongzi Zhu](https://lion.sjtu.edu.cn/member/memberDetail?id=12) and [Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/).
+<!---
 Meanwhile, I work as a discoverist at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info). 
+--->
 
 
 My research interest includes ***robotics(perception, autonomous driving), embodied AI, and computer vision***. <a href='https://scholar.google.com/citations?user=bTsmnwcAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhouyunsong%2Fzhouyunsong.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
@@ -53,11 +55,11 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 *2024.01 - 2024.07*, **Video Diffusion Models and Driving Simulators**. Supervisor: [Bolei Zhou](https://boleizhou.github.io/).
 
-
+<!---
 ### `OpenDriveLab | Shanghai AI Lab`
 
 *2022.12 - (present)*, **End-to-end Autonomous Driving** and **Driving with Language**. Supervisor: [Hongyang Li](https://lihongyang.info).
-
+--->
 
 ### `LION | Shanghai Jiao Tong University`
 
