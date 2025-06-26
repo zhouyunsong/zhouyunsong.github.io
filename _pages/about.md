@@ -80,7 +80,7 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 ## 🔥Highlighted Papers
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../assets/Nexus.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='../assets/Nexus.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Decoupled Diffusion Sparks Adaptive Scene Generation \\
