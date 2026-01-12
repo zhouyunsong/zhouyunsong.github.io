@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yunsong Zhou's Homepage"
-description              : "Ph.D. at SJTU | UCLA. Focusing on Robotics, Generative Models, and Embodied AI."
+description              : "Jr Research Scientist at Shanghai AI Lab, PhD at SJTU | UCLA. Focusing on Robotics, Generative Models, and Embodied AI."
 repository               : "zhouyunsong/zhouyunsong.github.io"
 google_scholar_stats_use_cdn : True
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yunsong Zhou"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Shanghai Jiao Tong University"
+  bio              : "Shanghai AI Laboratory"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
