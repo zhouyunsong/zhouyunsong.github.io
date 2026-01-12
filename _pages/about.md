@@ -28,22 +28,26 @@ redirect_from:
 > A glimpse of Hermosa Beach, Los Angeles, California, where [La La Land](https://en.wikipedia.org/wiki/La_La_Land) was filmed.
 
 
+Hi, I am a Junior Research Scientist at the Shanghai Artificial Intelligence Laboratory, leading research on dexterous manipulation for embodied AI.
 
-Hi, I am a Ph.D. student from Wenjun Wu AI Hornour Class, Shanghai Jiao Tong University, majoring in Computer Science. Currently, I am supervised by Prof. [Hongzi Zhu](https://lion.sjtu.edu.cn/member/memberDetail?id=12) and [Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/).
-<!---
-Meanwhile, I work as a discoverist at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info). 
---->
+I received my Ph.D. in Computer Science from Shanghai Jiao Tong University in 2025, supervised by Prof. [Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/) and Prof. [Hongzi Zhu](https://lion.sjtu.edu.cn/member/memberDetail?id=12).
+Besides, I was a student in the Wenjun Wu AI Honours Class, advised by Prof. [Cewu Lu](https://www.mvig.org/).
+I have also gained international and industrial research experience. I conducted research at UCLA under the supervision of Prof. [Bolei Zhou](https://boleizhou.github.io/), and previously worked as a research intern at OpenDriveLab, advised by Prof. [Hongyang Li](https://lihongyang.info), where I was involved in autonomous driving–related research.
 
 
-My research interest includes ***robotics(perception, autonomous driving), embodied AI, and computer vision***. <a href='https://scholar.google.com/citations?user=bTsmnwcAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhouyunsong%2Fzhouyunsong.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+
+
+
+My research interest includes ***robotics, generative models, and embodied AI***. <a href='https://scholar.google.com/citations?user=bTsmnwcAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhouyunsong%2Fzhouyunsong.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🔥 [**InterVLA-A1**](https://github.com/InternRobotics/InternVLA-A1) released [![](https://img.shields.io/github/stars/InternRobotics/InternVLA-A1?style=social&label=Code+Stars)](https://github.com/InternRobotics/InternVLA-A1)
 - *2024.12*: &nbsp;🔥 [**SimGen**](https://metadriverse.github.io/simgen) released [![](https://img.shields.io/github/stars/MetaDriverse/SimGen?style=social&label=Code+Stars)](https://github.com/MetaDriverse/SimGen)
 - *2024.06*: &nbsp;💻 Host the CVPR2024 workshop on [**Autonomous Grand Challenge**](https://opendrivelab.com/challenge2024/)
 - *2024.03*: &nbsp;🔥 [**ELM**](https://github.com/OpenDriveLab/ELM) released [![](https://img.shields.io/github/stars/OpenDriveLab/ELM?style=social&label=Code+Stars)](https://github.com/OPenDriveLab/ELM)
 - *2024.01*: &nbsp;🎉 Become a visiting scholar at the University of California, Los Angeles, go bruins!
-- *2023.08*: &nbsp;🔥 [**OpenScene**](https://github.com/OpenDriveLab/OpenScene) released [![](https://img.shields.io/github/stars/OpenDriveLab/OpenScene?style=social&label=Code+Stars)](https://github.com/OpenDriveLab/OpenScene)
 - *2023.06*: &nbsp;💻 Host the CVPR2023 workshop on [**E2EAD**](https://opendrivelab.com/e2ead/cvpr23.html)
 - *2022.12*: &nbsp;🎉 Become a member of [**OpenDriveLab**](https://opendrivelab.com)
 - *2022.09*: &nbsp;🎉 Enrolled in Wenjun Wu AI Hornour Class
@@ -51,19 +55,21 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 
 # 💻 Research
 
+### `InternRobotics | Shanghai AI Laboratory`
+
+*2025.09 - (present)*, **Dexterous Manipulation for Embodied AI**. Supervisor: [Jiangmiao Pang](https://oceanpang.github.io/).
+
 ### `MetaDriverse | University of California, LA` 
 
 *2024.01 - 2024.07*, **Video Diffusion Models and Driving Simulators**. Supervisor: [Bolei Zhou](https://boleizhou.github.io/).
 
-<!---
 ### `OpenDriveLab | Shanghai AI Lab`
 
-*2022.12 - (present)*, **End-to-end Autonomous Driving** and **Driving with Language**. Supervisor: [Hongyang Li](https://lihongyang.info).
---->
+*2022.12 - 2025.06*, **End-to-end Autonomous Driving** and **Driving with Language**. Supervisor: [Hongyang Li](https://lihongyang.info).
 
 ### `LION | Shanghai Jiao Tong University`
 
-*2020.09 - (present)*, **Perception in Autonomous Driving**. Supervisor: [Hongzi Zhu](https://lion.sjtu.edu.cn/member/memberDetail?id=12) and [Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/).
+*2020.09 - 2025.06*, **Perception in Autonomous Driving**. Supervisor: [Hongzi Zhu](https://lion.sjtu.edu.cn/member/memberDetail?id=12) and [Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/).
 
 
 
@@ -78,6 +84,18 @@ My research interest includes ***robotics(perception, autonomous driving), embod
 # 📝 Publications 
 
 ## 🔥Highlighted Papers
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='../assets/teaser_InternVLA-A1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation \\
+Junhao Cai, Zetao Cai, Jiafei Cao, Yilun Chen, Zeyu He, Lei Jiang, Hang Li, Hengjie Li, Yang Li, Yufei Liu, Yanan Lu, Qi Lv, Haoxiang Ma, Jiangmiao Pang, Yu Qiao, Zherui Qiu, Yanqing Shen, Xu Shi, Yang Tian, Bolun Wang, Hanqing Wang, Jiaheng Wang, Tai Wang, Xueyuan Wei, Chao Wu, Yiman Xie, Boyang Xing, Yuqiang Yang, Yuyin Yang, Qiaojun Yu, Feng Yuan, Jia Zeng, Jingjing Zhang, Shenghan Zhang, Shi Zhang, Zhuoma Zhaxi, Bowen Zhou, Yuanzhen Zhou, **Yunsong Zhou**, Hongrui Zhu, Yangkun Zhu, Yuchen Zhu \\
+<a href="https://arxiv.org/abs/2601.02456"><img src="https://img.shields.io/badge/arXiv-white"></a>
+<a href="https://internrobotics.github.io/internvla-a1.github.io/"><img src="https://img.shields.io/badge/Project-white"></a>
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='../assets/Nexus.gif' alt="sym" width="100%"></div></div>
