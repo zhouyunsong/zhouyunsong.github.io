@@ -30,7 +30,7 @@ author:
   googlescholar    :  "https://scholar.google.com/citations?user=bTsmnwcAAAAJ"
   email            : "zhouyunsong2017@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : [Resume]("https://github.com/zhouyunsong/zhouyunsong.github.io/blob/main/docs/resume.pdf")
+  Resume              : "https://github.com/zhouyunsong/zhouyunsong.github.io/blob/main/docs/resume.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
