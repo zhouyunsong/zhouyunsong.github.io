@@ -29,11 +29,14 @@ redirect_from:
 
 
 Hi, I am a Research Scientist at the Shanghai Artificial Intelligence Laboratory, leading research on **dexterous manipulation and generative models**, advised by Prof. [Weinan Zhang](https://wnzhang.net/) and Prof. [Chunhua Shen](https://cshen.github.io/).
+<a href="https://github.com/zhouyunsong/zhouyunsong.github.io/blob/main/docs/resume.pdf">
+  <img src="https://img.shields.io/badge/📄%20Resume-white">
+</a>
+
 
 I received my Ph.D. in Computer Science from Shanghai Jiao Tong University in 2025, supervised by Prof. [Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/) and Prof. [Hongzi Zhu](https://lion.sjtu.edu.cn/member/memberDetail?id=12).
 Besides, I was a student in the Wu WenjunAI Honours Class (吴文俊班), advised by Prof. [Cewu Lu](https://www.mvig.org/).
 I have also gained international and industrial research experience. I conducted research at UCLA under the supervision of Prof. [Bolei Zhou](https://boleizhou.github.io/), and previously worked as a research intern at OpenDriveLab, advised by Prof. [Hongyang Li](https://lihongyang.info), where I was involved in autonomous driving–related research.
-
 
 
 
