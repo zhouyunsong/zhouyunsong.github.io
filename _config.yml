@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yunsong Zhou's Homepage"
-description              : "Jr Research Scientist at Shanghai AI Lab, PhD at SJTU | UCLA. Focusing on Robotics, Generative Models, and Embodied AI."
+description              : "Research Scientist at Shanghai AI Lab, PhD at SJTU | UCLA. Focusing on Robotics, Generative Models, and Embodied AI."
 repository               : "zhouyunsong/zhouyunsong.github.io"
 google_scholar_stats_use_cdn : True
 
@@ -30,7 +30,7 @@ author:
   googlescholar    :  "https://scholar.google.com/citations?user=bTsmnwcAAAAJ"
   email            : "zhouyunsong2017@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : [Resume]("https://github.com/zhouyunsong/zhouyunsong.github.io/blob/main/docs/resume.pdf")
   bitbucket        :
   codepen          :
   dribbble         :
