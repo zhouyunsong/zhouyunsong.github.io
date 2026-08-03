@@ -69,7 +69,7 @@ My research interests include ***Robotics (Dextrous Manipulation), Gen AI, and E
 ## 🔥Highlighted Papers
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../assets/teaser_sim1.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV26</div><img src='../assets/teaser_sim1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds \\
@@ -81,18 +81,7 @@ SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='../assets/teaser_forcevla2.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation \\
-Yang Li, Hongru Jiang, Junjie Xia, Hongquan Zhang, Jinda Du, **Yunsong Zhou<sup>†</sup>**, Jia Zeng<sup>†</sup>, Ce Hao, Jieji Ren, Qiaojun Yu<sup>†</sup>, Cewu Lu<sup>†</sup>, Yu Qiao, Jiangmiao Pang \\
-<a href="https://arxiv.org/pdf/2603.15169"><img src="https://img.shields.io/badge/arXiv-white"></a>
-<a href="https://sites.google.com/view/force-vla2/home"><img src="https://img.shields.io/badge/Project-white"></a>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../assets/teaser_soma.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML26</div><img src='../assets/teaser_soma.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-body Manipulation \\
@@ -103,6 +92,16 @@ Mu Huang, Hui Wang, Kerui Ren, Linning Xu, **Yunsong Zhou**, Mulin Yu, Bo Dai, J
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='../assets/teaser_forcevla2.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation \\
+Yang Li, Hongru Jiang, Junjie Xia, Hongquan Zhang, Jinda Du, **Yunsong Zhou<sup>†</sup>**, Jia Zeng<sup>†</sup>, Ce Hao, Jieji Ren, Qiaojun Yu<sup>†</sup>, Cewu Lu<sup>†</sup>, Yu Qiao, Jiangmiao Pang \\
+<a href="https://arxiv.org/pdf/2603.15169"><img src="https://img.shields.io/badge/arXiv-white"></a>
+<a href="https://sites.google.com/view/force-vla2/home"><img src="https://img.shields.io/badge/Project-white"></a>
+
+</div>
+</div>
 
 
 
@@ -319,4 +318,4 @@ OpenScene: The large-scale dataset used for the End-to-End Driving and Predictiv
 - *2024.07* Invited by **SONY** to give a talk on `Generative Models in Autonomous Driving`
 - *2023.08* Invited by [**Motional**](https://motional.com/) to give a talk on `End-to-end Autonomous Driving`
 
-<p align="center"><sub>Updated on April 27, 2026</sub></p>
+<p align="center"><sub>Updated on August 03, 2026</sub></p>
