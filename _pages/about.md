@@ -69,7 +69,7 @@ My research interests include ***Robotics (Dextrous Manipulation), Gen AI, and E
 ## 🔥Highlighted Papers
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV26</div><img src='../assets/teaser_sim1.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='../assets/teaser_sim1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds \\
@@ -81,7 +81,7 @@ SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML26</div><img src='../assets/teaser_soma.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='../assets/teaser_soma.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-body Manipulation \\
