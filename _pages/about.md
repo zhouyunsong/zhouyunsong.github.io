@@ -69,6 +69,20 @@ My research interests include ***Robotics (Dextrous Manipulation), Gen AI, and E
 ## 🔥Highlighted Papers
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='../assets/teaser_egoexplorer.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ \\
+**Yunsong Zhou**, Xuekun Jiang, Haiqi Shen, Hangxu Liu, Chaojian Shi, Yujie Liu, Jingyuan Li, Haoran Yang, Jiafei Cao, Dongzhan Zhou, Dong Wang, Yao Mu, Chunhua Shen, Weinan Zhang \\
+<a href="https://arxiv.org/abs/2610.18872"><img src="https://img.shields.io/badge/arXiv-white"></a>
+<a href="https://internrobotics.github.io/egoexplorer.github.io/"><img src="https://img.shields.io/badge/Project-white"></a>
+<a href="https://github.com/InternRobotics/EgoExplorer"><img src="https://img.shields.io/badge/Code-white"></a>
+<a href="https://huggingface.co/datasets/InternRobotics/EgoExplorer"><img src="https://img.shields.io/badge/Dataset-blue"></a>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='../assets/teaser_sim1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -112,6 +126,41 @@ InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipula
 Junhao Cai, Zetao Cai, Jiafei Cao, Yilun Chen, Zeyu He, Lei Jiang, Hang Li, Hengjie Li, Yang Li, Yufei Liu, Yanan Lu, Qi Lv, Haoxiang Ma, Jiangmiao Pang, Yu Qiao, Zherui Qiu, Yanqing Shen, Xu Shi, Yang Tian, Bolun Wang, Hanqing Wang, Jiaheng Wang, Tai Wang, Xueyuan Wei, Chao Wu, Yiman Xie, Boyang Xing, Yuqiang Yang, Yuyin Yang, Qiaojun Yu, Feng Yuan, Jia Zeng, Jingjing Zhang, Shenghan Zhang, Shi Zhang, Zhuoma Zhaxi, Bowen Zhou, Yuanzhen Zhou, **Yunsong Zhou**, Hongrui Zhu, Yangkun Zhu, Yuchen Zhu \\
 <a href="https://arxiv.org/abs/2601.02456"><img src="https://img.shields.io/badge/arXiv-white"></a>
 <a href="https://internrobotics.github.io/internvla-a1.github.io/"><img src="https://img.shields.io/badge/Project-white"></a>
+
+</div>
+</div>
+
+
+## Embodied AI
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='../assets/teaser_internw0_delta.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data \\
+Xingyu Miao, Zizun Li, Baole Fang, Kaiwen Song, Tenghui Wang, Hanxue Zhang, Yating Wang, Xudong Li, Yuping He, Xueyuan Wei, Chao Gao, Xijie Yang, Yingxiang Xu, Kerui Ren, Wenqi Guo, Jianjun Zhou, Xinzhe Wang, Weiguang Zhao, Ni Yang, Zetao Cai, Yufei Xue, Hengjie Li, Zeyu He, Yuanzhen Zhou, Rong Fu, Jianyang Zhang, Siwei Cui, Fuxian Huang, **Yunsong Zhou**, Xing Gao, Yifei Yao, Qiaojun Yu, Kailin Li, Ming Zhou, Mu Huang, Xinyue Li, Wenze Cui, Bingqi Jiang, Xueyue Zhu, Junting Dong, Haoyu Guo, Tao Lu, Mulin Yu, Bowen Zhou, Bin Zhao, Tianfan Xue, Weinan Zhang, Chunhua Shen \\
+<a href="https://arxiv.org/abs/2609.31394"><img src="https://img.shields.io/badge/arXiv-white"></a>
+<a href="https://internrobotics.github.io/InternW0-Delta/"><img src="https://img.shields.io/badge/Project-white"></a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='../assets/teaser_r2wam.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Data-Free Continual Learning for World Action Model with Rectified Generative Replay \\
+Kaipeng Fang, Hangxu Liu, Chaojian Shi, **Yunsong Zhou**, Hongzi Zhu, Minyi Guo, Jingkuan Song, Lianli Gao \\
+<a href="https://arxiv.org/abs/2610.18038"><img src="https://img.shields.io/badge/arXiv-white"></a>
+<a href="https://kaipengfang.github.io/r2-wam/"><img src="https://img.shields.io/badge/Project-white"></a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='../assets/teaser_gauge.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+GAUGE: A Measurement-Grounded Benchmark for Physical Fidelity in Simulation Engines and Video World Models \\
+Shuai Wang, Yaxin Feng, Xuekun Jiang, Shihan Tian, Ningyu Yan, Xing Shen, Chaoyang Lyu, Hui Wang, **Yunsong Zhou**, Hanqing Wang, Jiangmiao Pang, Yang Xiang, Xing Gao, Chunhua Shen, Weinan Zhang \\
+<a href="https://arxiv.org/abs/2608.05948"><img src="https://img.shields.io/badge/arXiv-white"></a>
 
 </div>
 </div>
@@ -318,4 +367,4 @@ OpenScene: The large-scale dataset used for the End-to-End Driving and Predictiv
 - *2024.07* Invited by **SONY** to give a talk on `Generative Models in Autonomous Driving`
 - *2023.08* Invited by [**Motional**](https://motional.com/) to give a talk on `End-to-end Autonomous Driving`
 
-<p align="center"><sub>Updated on August 03, 2026</sub></p>
+<p align="center"><sub>Updated on October 20, 2026</sub></p>
