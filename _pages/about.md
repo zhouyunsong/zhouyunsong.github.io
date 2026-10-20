@@ -45,8 +45,8 @@ My research interests include ***Robotics (Dextrous Manipulation), Gen AI, and E
 
 # 🔥 News
 - *2026.10*: &nbsp;🔥 [**EgoExplorer**](https://internrobotics.github.io/egoexplorer.github.io/) released [![](https://img.shields.io/github/stars/InternRobotics/EgoExplorer?style=social&label=Code+Stars)](https://github.com/InternRobotics/EgoExplorer)
-- *2026.06*: &nbsp;💻 Host the CVPR2026 workshop on [**From Labs to Life: Embodied Intelligence in the Wild**](https://opendrivelab.com/cvpr2026/workshop)
-- *2026.04*: &nbsp;🔥 [**SIM1**](https://github.com/InternRobotics/SIM1) released [![](https://img.shields.io/github/stars/InternRobotics/SIM1?style=social&label=Code+Stars)](https://github.com/InternRobotics/InternVLA-A1)
+- *2026.06*: &nbsp;💻 Host the CVPR2026 workshop on [**From Lab Demos to Daily Tasks: Embodied Intelligence in the Wild**](https://opendrivelab.com/cvpr2026/workshop)
+- *2026.04*: &nbsp;🔥 [**SIM1**](https://github.com/InternRobotics/SIM1) released [![](https://img.shields.io/github/stars/InternRobotics/SIM1?style=social&label=Code+Stars)](https://github.com/InternRobotics/SIM1)
 - *2026.01*: &nbsp;🔥 [**InternVLA-A1**](https://github.com/InternRobotics/InternVLA-A1) released [![](https://img.shields.io/github/stars/InternRobotics/InternVLA-A1?style=social&label=Code+Stars)](https://github.com/InternRobotics/InternVLA-A1)
 - *2024.12*: &nbsp;🔥 [**SimGen**](https://metadriverse.github.io/simgen) released [![](https://img.shields.io/github/stars/MetaDriverse/SimGen?style=social&label=Code+Stars)](https://github.com/MetaDriverse/SimGen)
 - *2024.06*: &nbsp;💻 Host the CVPR2024 workshop on [**Autonomous Grand Challenge**](https://opendrivelab.com/challenge2024/)
