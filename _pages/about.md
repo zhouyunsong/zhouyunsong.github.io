@@ -44,8 +44,10 @@ My research interests include ***Robotics (Dextrous Manipulation), Gen AI, and E
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🔥 [**EgoExplorer**](https://internrobotics.github.io/egoexplorer.github.io/) released [![](https://img.shields.io/github/stars/InternRobotics/EgoExplorer?style=social&label=Code+Stars)](https://github.com/InternRobotics/EgoExplorer)
+- *2026.06*: &nbsp;💻 Host the CVPR2026 workshop on [**From Labs to Life: Embodied Intelligence in the Wild**](https://opendrivelab.com/cvpr2026/workshop)
 - *2026.04*: &nbsp;🔥 [**SIM1**](https://github.com/InternRobotics/SIM1) released [![](https://img.shields.io/github/stars/InternRobotics/SIM1?style=social&label=Code+Stars)](https://github.com/InternRobotics/InternVLA-A1)
-- *2026.01*: &nbsp;🔥 [**InterVLA-A1**](https://github.com/InternRobotics/InternVLA-A1) released [![](https://img.shields.io/github/stars/InternRobotics/InternVLA-A1?style=social&label=Code+Stars)](https://github.com/InternRobotics/InternVLA-A1)
+- *2026.01*: &nbsp;🔥 [**InternVLA-A1**](https://github.com/InternRobotics/InternVLA-A1) released [![](https://img.shields.io/github/stars/InternRobotics/InternVLA-A1?style=social&label=Code+Stars)](https://github.com/InternRobotics/InternVLA-A1)
 - *2024.12*: &nbsp;🔥 [**SimGen**](https://metadriverse.github.io/simgen) released [![](https://img.shields.io/github/stars/MetaDriverse/SimGen?style=social&label=Code+Stars)](https://github.com/MetaDriverse/SimGen)
 - *2024.06*: &nbsp;💻 Host the CVPR2024 workshop on [**Autonomous Grand Challenge**](https://opendrivelab.com/challenge2024/)
 - *2024.03*: &nbsp;🔥 [**ELM**](https://github.com/OpenDriveLab/ELM) released [![](https://img.shields.io/github/stars/OpenDriveLab/ELM?style=social&label=Code+Stars)](https://github.com/OPenDriveLab/ELM)
@@ -69,7 +71,7 @@ My research interests include ***Robotics (Dextrous Manipulation), Gen AI, and E
 ## 🔥Highlighted Papers
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='../assets/teaser_egoexplorer.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='../assets/teaser_egoexplorer.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ \\
@@ -161,6 +163,7 @@ Kaipeng Fang, Hangxu Liu, Chaojian Shi, **Yunsong Zhou**, Hongzi Zhu, Minyi Guo,
 GAUGE: A Measurement-Grounded Benchmark for Physical Fidelity in Simulation Engines and Video World Models \\
 Shuai Wang, Yaxin Feng, Xuekun Jiang, Shihan Tian, Ningyu Yan, Xing Shen, Chaoyang Lyu, Hui Wang, **Yunsong Zhou**, Hanqing Wang, Jiangmiao Pang, Yang Xiang, Xing Gao, Chunhua Shen, Weinan Zhang \\
 <a href="https://arxiv.org/abs/2608.05948"><img src="https://img.shields.io/badge/arXiv-white"></a>
+<a href="https://internrobotics.github.io/GAUGE/"><img src="https://img.shields.io/badge/Project-white"></a>
 
 </div>
 </div>
