@@ -101,7 +101,7 @@ Xingyu Miao, Zizun Li, Baole Fang, Kaiwen Song, Tenghui Wang, Hanxue Zhang, Yati
 <div class='paper-box-text' markdown="1">
 
 SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds \\
-**Yunsong Zhou<sup>†</sup>**, Hangxu Liu, Xuekun Jiang, Xing Shen, Yuanzhen Zhou, Hui Wang, Baole Fang, Yang Tian, Mulin Yu, Qiaojun Yu, Li Ma, Hengjie Li, Hanqing Wang, Jia Zeng, Jiangmiao Pang<sup>†</sup> \\
+**Yunsong Zhou<sup>&#42;†</sup>**, Hangxu Liu<sup>&#42;</sup>, Xuekun Jiang<sup>&#42;</sup>, Xing Shen<sup>&#42;</sup>, Yuanzhen Zhou, Hui Wang, Baole Fang, Yang Tian, Mulin Yu, Qiaojun Yu, Li Ma, Hengjie Li, Hanqing Wang, Jia Zeng, Jiangmiao Pang<sup>†</sup> \\
 <a href="https://arxiv.org/abs/2604.08544"><img src="https://img.shields.io/badge/arXiv-white"></a>
 <a href="https://internrobotics.github.io/sim1.github.io/"><img src="https://img.shields.io/badge/Project-white"></a>
 
@@ -176,9 +176,9 @@ Shuai Wang, Yaxin Feng, Xuekun Jiang, Shihan Tian, Ningyu Yan, Xing Shen, Chaoya
 <div class='paper-box-text' markdown="1">
 
 Decoupled Diffusion Sparks Adaptive Scene Generation \\
-**Yunsong Zhou**, Naisheng Ye, William Ljungbergh, Tianyu Li, Jiazhi Yang, Zetong Yang, Hongzi Zhu, Christoffer Petersson, Hongyang Li \\
-<a href=""><img src="https://img.shields.io/badge/arXiv-white"></a>
-<a href=""><img src="https://img.shields.io/badge/Project-white"></a>
+**Yunsong Zhou<sup>&#42;</sup>**, Naisheng Ye<sup>&#42;</sup>, William Ljungbergh, Tianyu Li, Jiazhi Yang, Zetong Yang, Hongzi Zhu, Christoffer Petersson, Hongyang Li \\
+<a href="https://arxiv.org/abs/2504.10485"><img src="https://img.shields.io/badge/arXiv-white"></a>
+<a href="https://opendrivelab.com/Nexus"><img src="https://img.shields.io/badge/Project-white"></a>
 
 </div>
 </div>
@@ -199,7 +199,7 @@ SimGen: Simulator-conditioned Driving Scene Generation \\
 <div class='paper-box-text' markdown="1">
 
 Embodied Understanding of Driving Scenarios \\
-**Yunsong Zhou**, Linyan Huang, Qingwen Bu, Jia Zeng, Tianyu Li, Hang Qiu, Hongzi Zhu, Minyi Guo, Yu Qiao, and Hongyang Li \\
+**Yunsong Zhou<sup>&#42;</sup>**, Linyan Huang<sup>&#42;</sup>, Qingwen Bu<sup>&#42;</sup>, Jia Zeng, Tianyu Li, Hang Qiu, Hongzi Zhu, Minyi Guo, Yu Qiao, and Hongyang Li \\
 <a href="https://arxiv.org/abs/2403.04593"><img src="https://img.shields.io/badge/arXiv-white"></a>
 <a href="https://opendrivelab.github.io/elm.github.io"><img src="https://img.shields.io/badge/Project-white"></a>
 <a href="https://opendrivelab.com/challenge2024/"><img src="https://img.shields.io/badge/Challenge-blue"></a>
