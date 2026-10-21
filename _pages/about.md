@@ -40,7 +40,7 @@ I have also gained international and industrial research experience. I conducted
 
 
 
-My research interests include ***Robotics (Dextrous Manipulation), Gen AI, and Embodied AI***. <a href='https://scholar.google.com/citations?user=bTsmnwcAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhouyunsong%2Fzhouyunsong.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interests include ***Robotics (Dextrous Manipulation), Gen AI, and Embodied AI***. <a href='https://scholar.google.com/citations?user=bTsmnwcAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fzhouyunsong%2Fzhouyunsong.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
