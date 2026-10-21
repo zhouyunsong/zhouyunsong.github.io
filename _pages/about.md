@@ -76,7 +76,7 @@ My research interests include ***Robotics (Dextrous Manipulation), Gen AI, and E
 <div class='paper-box-text' markdown="1">
 
 EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ \\
-**Yunsong Zhou**, Xuekun Jiang, Haiqi Shen, Hangxu Liu, Chaojian Shi, Yujie Liu, Jingyuan Li, Haoran Yang, Jiafei Cao, Dongzhan Zhou, Dong Wang, Yao Mu, Chunhua Shen, Weinan Zhang \\
+**Yunsong Zhou<sup>&#42;†</sup>**, Xuekun Jiang<sup>&#42;</sup>, Haiqi Shen<sup>&#42;</sup>, Hangxu Liu, Chaojian Shi, Yujie Liu, Jingyuan Li, Haoran Yang, Jiafei Cao, Dongzhan Zhou, Dong Wang, Yao Mu, Chunhua Shen, Weinan Zhang<sup>†</sup> \\
 <a href="https://arxiv.org/abs/2610.18872"><img src="https://img.shields.io/badge/arXiv-white"></a>
 <a href="https://internrobotics.github.io/egoexplorer.github.io/"><img src="https://img.shields.io/badge/Project-white"></a>
 <a href="https://github.com/InternRobotics/EgoExplorer"><img src="https://img.shields.io/badge/Code-white"></a>
@@ -151,7 +151,7 @@ Xingyu Miao, Zizun Li, Baole Fang, Kaiwen Song, Tenghui Wang, Hanxue Zhang, Yati
 <div class='paper-box-text' markdown="1">
 
 Data-Free Continual Learning for World Action Model with Rectified Generative Replay \\
-Kaipeng Fang, Hangxu Liu, Chaojian Shi, **Yunsong Zhou**, Hongzi Zhu, Minyi Guo, Jingkuan Song, Lianli Gao \\
+Kaipeng Fang, Hangxu Liu, Chaojian Shi, **Yunsong Zhou<sup>†</sup>**, Hongzi Zhu, Minyi Guo, Jingkuan Song, Lianli Gao<sup>†</sup> \\
 <a href="https://arxiv.org/abs/2610.18038"><img src="https://img.shields.io/badge/arXiv-white"></a>
 <a href="https://kaipengfang.github.io/r2-wam/"><img src="https://img.shields.io/badge/Project-white"></a>
 
