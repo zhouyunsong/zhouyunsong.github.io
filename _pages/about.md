@@ -146,7 +146,7 @@ Xingyu Miao, Zizun Li, Baole Fang, Kaiwen Song, Tenghui Wang, Hanxue Zhang, Yati
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='../assets/teaser_r2wam.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='../assets/teaser_r2wam.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Data-Free Continual Learning for World Action Model with Rectified Generative Replay \\
