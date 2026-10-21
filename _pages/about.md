@@ -45,6 +45,7 @@ My research interests include ***Robotics (Dextrous Manipulation), Gen AI, and E
 
 # 🔥 News
 - *2026.10*: &nbsp;🔥 [**EgoExplorer**](https://internrobotics.github.io/egoexplorer.github.io/) released [![](https://img.shields.io/github/stars/InternRobotics/EgoExplorer?style=social&label=Code+Stars)](https://github.com/InternRobotics/EgoExplorer)
+- *2026.09*: &nbsp;🎉 Serve as an Area Chair for ICLR 2027
 - *2026.06*: &nbsp;💻 Host the CVPR2026 workshop on [**From Lab Demos to Daily Tasks: Embodied Intelligence in the Wild**](https://opendrivelab.com/cvpr2026/workshop)
 - *2026.04*: &nbsp;🔥 [**SIM1**](https://github.com/InternRobotics/SIM1) released [![](https://img.shields.io/github/stars/InternRobotics/SIM1?style=social&label=Code+Stars)](https://github.com/InternRobotics/SIM1)
 - *2026.01*: &nbsp;🔥 [**InternVLA-A1**](https://github.com/InternRobotics/InternVLA-A1) released [![](https://img.shields.io/github/stars/InternRobotics/InternVLA-A1?style=social&label=Code+Stars)](https://github.com/InternRobotics/InternVLA-A1)
@@ -121,7 +122,7 @@ Yang Li, Hongru Jiang, Junjie Xia, Hongquan Zhang, Jinda Du, **Yunsong Zhou<sup>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='../assets/teaser_InternVLA-A1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='../assets/teaser_InternVLA-A1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation \\
@@ -135,7 +136,7 @@ Junhao Cai, Zetao Cai, Jiafei Cao, Yilun Chen, Zeyu He, Lei Jiang, Hang Li, Heng
 
 ## Embodied AI
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='../assets/teaser_internw0_delta.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='../assets/teaser_internw0_delta.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data \\
@@ -157,7 +158,7 @@ Kaipeng Fang, Hangxu Liu, Chaojian Shi, **Yunsong Zhou**, Hongzi Zhu, Minyi Guo,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='../assets/teaser_gauge.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='../assets/teaser_gauge.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 GAUGE: A Measurement-Grounded Benchmark for Physical Fidelity in Simulation Engines and Video World Models \\
