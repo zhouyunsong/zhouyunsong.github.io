@@ -86,6 +86,17 @@ EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Si
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='../assets/teaser_internw0_delta.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data \\
+Xingyu Miao, Zizun Li, Baole Fang, Kaiwen Song, Tenghui Wang, Hanxue Zhang, Yating Wang, Xudong Li, Yuping He, Xueyuan Wei, Chao Gao, Xijie Yang, Yingxiang Xu, Kerui Ren, Wenqi Guo, Jianjun Zhou, Xinzhe Wang, Weiguang Zhao, Ni Yang, Zetao Cai, Yufei Xue, Hengjie Li, Zeyu He, Yuanzhen Zhou, Rong Fu, Jianyang Zhang, Siwei Cui, Fuxian Huang, **Yunsong Zhou**, Xing Gao, Yifei Yao, Qiaojun Yu, Kailin Li, Ming Zhou, Mu Huang, Xinyue Li, Wenze Cui, Bingqi Jiang, Xueyue Zhu, Junting Dong, Haoyu Guo, Tao Lu, Mulin Yu, Bowen Zhou, Bin Zhao, Tianfan Xue, Weinan Zhang, Chunhua Shen \\
+<a href="https://arxiv.org/abs/2609.31394"><img src="https://img.shields.io/badge/arXiv-white"></a>
+<a href="https://internrobotics.github.io/InternW0-Delta/"><img src="https://img.shields.io/badge/Project-white"></a>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='../assets/teaser_sim1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -97,17 +108,6 @@ SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds \\
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='../assets/teaser_soma.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-body Manipulation \\
-Mu Huang, Hui Wang, Kerui Ren, Linning Xu, **Yunsong Zhou**, Mulin Yu, Bo Dai, Jiangmiao Pang \\
-<a href="https://arxiv.org/pdf/2602.02402"><img src="https://img.shields.io/badge/arXiv-white"></a>
-<a href="https://city-super.github.io/SoMA/"><img src="https://img.shields.io/badge/Project-white"></a>
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='../assets/teaser_forcevla2.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -136,13 +136,13 @@ Junhao Cai, Zetao Cai, Jiafei Cao, Yilun Chen, Zeyu He, Lei Jiang, Hang Li, Heng
 
 ## Embodied AI
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='../assets/teaser_internw0_delta.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='../assets/teaser_soma.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data \\
-Xingyu Miao, Zizun Li, Baole Fang, Kaiwen Song, Tenghui Wang, Hanxue Zhang, Yating Wang, Xudong Li, Yuping He, Xueyuan Wei, Chao Gao, Xijie Yang, Yingxiang Xu, Kerui Ren, Wenqi Guo, Jianjun Zhou, Xinzhe Wang, Weiguang Zhao, Ni Yang, Zetao Cai, Yufei Xue, Hengjie Li, Zeyu He, Yuanzhen Zhou, Rong Fu, Jianyang Zhang, Siwei Cui, Fuxian Huang, **Yunsong Zhou**, Xing Gao, Yifei Yao, Qiaojun Yu, Kailin Li, Ming Zhou, Mu Huang, Xinyue Li, Wenze Cui, Bingqi Jiang, Xueyue Zhu, Junting Dong, Haoyu Guo, Tao Lu, Mulin Yu, Bowen Zhou, Bin Zhao, Tianfan Xue, Weinan Zhang, Chunhua Shen \\
-<a href="https://arxiv.org/abs/2609.31394"><img src="https://img.shields.io/badge/arXiv-white"></a>
-<a href="https://internrobotics.github.io/InternW0-Delta/"><img src="https://img.shields.io/badge/Project-white"></a>
+SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-body Manipulation \\
+Mu Huang, Hui Wang, Kerui Ren, Linning Xu, **Yunsong Zhou**, Mulin Yu, Bo Dai, Jiangmiao Pang \\
+<a href="https://arxiv.org/pdf/2602.02402"><img src="https://img.shields.io/badge/arXiv-white"></a>
+<a href="https://city-super.github.io/SoMA/"><img src="https://img.shields.io/badge/Project-white"></a>
 
 </div>
 </div>
