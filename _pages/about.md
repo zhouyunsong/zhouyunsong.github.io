@@ -44,7 +44,7 @@ My research interests include ***Robotics (Dextrous Manipulation), Gen AI, and E
 
 
 # 🔥 News
-- *2026.10*: &nbsp;🏆 Our paper [**Modular Representation Steering for Multi-Attribute LLM Alignment**](https://aclanthology.org/2026.emnlp-main.1469/) receives the **SAC Highlight Award** at EMNLP 2026
+- *2026.10*: &nbsp;🏆 Our paper [**Modular Representation Steering for Multi-Attribute LLM Alignment**](https://aclanthology.org/2026.emnlp-main.1469/) was nominated to the **Best Paper Committee** and received the **SAC Highlight Award** at EMNLP 2026
 - *2026.10*: &nbsp;🔥 [**EgoExplorer**](https://internrobotics.github.io/egoexplorer.github.io/) released [![](https://img.shields.io/github/stars/InternRobotics/EgoExplorer?style=social&label=Code+Stars)](https://github.com/InternRobotics/EgoExplorer)
 - *2026.09*: &nbsp;🎉 Serve as an Area Chair for ICLR 2027 and ICML 2027
 - *2026.06*: &nbsp;💻 Host the CVPR2026 workshop on [**From Lab Demos to Daily Tasks: Embodied Intelligence in the Wild**](https://opendrivelab.com/cvpr2026/workshop)
@@ -86,6 +86,18 @@ EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Si
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='../assets/teaser_polar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Modular Representation Steering for Multi-Attribute LLM Alignment \\
+Chaojian Shi, Renhong Huang, Xulan Qiu, Jiawei Zhou, **Yunsong Zhou** \\
+<strong><span style='color:red'>SAC Highlight Award · Best Paper Committee Nominee</span></strong> \\
+<a href="https://aclanthology.org/2026.emnlp-main.1469/"><img src="https://img.shields.io/badge/Paper-white"></a>
+<a href="https://aclanthology.org/2026.emnlp-main.1469.pdf"><img src="https://img.shields.io/badge/PDF-white"></a>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='../assets/teaser_internw0_delta.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -169,13 +181,6 @@ Shuai Wang, Yaxin Feng, Xuekun Jiang, Shihan Tian, Ningyu Yan, Xing Shen, Chaoya
 
 </div>
 </div>
-
-
-## Language Models
-
-- `EMNLP 2026` [Modular Representation Steering for Multi-Attribute LLM Alignment](https://aclanthology.org/2026.emnlp-main.1469/) \\
-  Chaojian Shi, Renhong Huang, Xulan Qiu, Jiawei Zhou, **Yunsong Zhou** \\
-  <strong><span style='color:red'>SAC Highlight Award</span></strong>
 
 
 ## Mobile Vision
