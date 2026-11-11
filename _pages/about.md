@@ -44,8 +44,9 @@ My research interests include ***Robotics (Dextrous Manipulation), Gen AI, and E
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🏆 Our paper [**Modular Representation Steering for Multi-Attribute LLM Alignment**](https://aclanthology.org/2026.emnlp-main.1469/) receives the **SAC Highlight Award** at EMNLP 2026
 - *2026.10*: &nbsp;🔥 [**EgoExplorer**](https://internrobotics.github.io/egoexplorer.github.io/) released [![](https://img.shields.io/github/stars/InternRobotics/EgoExplorer?style=social&label=Code+Stars)](https://github.com/InternRobotics/EgoExplorer)
-- *2026.09*: &nbsp;🎉 Serve as an Area Chair for ICLR 2027
+- *2026.09*: &nbsp;🎉 Serve as an Area Chair for ICLR 2027 and ICML 2027
 - *2026.06*: &nbsp;💻 Host the CVPR2026 workshop on [**From Lab Demos to Daily Tasks: Embodied Intelligence in the Wild**](https://opendrivelab.com/cvpr2026/workshop)
 - *2026.04*: &nbsp;🔥 [**SIM1**](https://github.com/InternRobotics/SIM1) released [![](https://img.shields.io/github/stars/InternRobotics/SIM1?style=social&label=Code+Stars)](https://github.com/InternRobotics/SIM1)
 - *2026.01*: &nbsp;🔥 [**InternVLA-A1**](https://github.com/InternRobotics/InternVLA-A1) released [![](https://img.shields.io/github/stars/InternRobotics/InternVLA-A1?style=social&label=Code+Stars)](https://github.com/InternRobotics/InternVLA-A1)
@@ -168,6 +169,13 @@ Shuai Wang, Yaxin Feng, Xuekun Jiang, Shihan Tian, Ningyu Yan, Xing Shen, Chaoya
 
 </div>
 </div>
+
+
+## Language Models
+
+- `EMNLP 2026` [Modular Representation Steering for Multi-Attribute LLM Alignment](https://aclanthology.org/2026.emnlp-main.1469/) \\
+  Chaojian Shi, Renhong Huang, Xulan Qiu, Jiawei Zhou, **Yunsong Zhou** \\
+  <strong><span style='color:red'>SAC Highlight Award</span></strong>
 
 
 ## Mobile Vision
@@ -371,4 +379,4 @@ OpenScene: The large-scale dataset used for the End-to-End Driving and Predictiv
 - *2024.07* Invited by **SONY** to give a talk on `Generative Models in Autonomous Driving`
 - *2023.08* Invited by [**Motional**](https://motional.com/) to give a talk on `End-to-end Autonomous Driving`
 
-<p align="center"><sub>Updated on October 20, 2026</sub></p>
+<p align="center"><sub>Updated on November 11, 2026</sub></p>
